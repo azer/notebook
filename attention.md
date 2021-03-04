@@ -7,3 +7,4 @@
 * The mechanism that directed your attention in the present, was your future self attempting to manifest itself in the present world.
 * We have a potential and potential is what you could be in time.
 * In order for that potential  to manifest itself it has to be palpable in the present and the way that instinct for further developed manifests itself in the present is by directing your attention towards things that are likely to increase your competence and further your growth right now.
+* Your attention is more or less controlled by processes that are so deep that you don't have a tremendous amount of voluntary control over them.
