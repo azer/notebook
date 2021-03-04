@@ -1,5 +1,7 @@
 # Attention
 
+## Direction of Attention
+
 [Source: Jordan Peterson / Carl Jung](https://www.youtube.com/watch?v=16x8vd2L4cw)
 
 * There are forces operating on you, on unconscious level, that determine, for example, the direction of your attention.
@@ -8,3 +10,7 @@
 * We have a potential and potential is what you could be in time.
 * In order for that potential  to manifest itself it has to be palpable in the present and the way that instinct for further developed manifests itself in the present is by directing your attention towards things that are likely to increase your competence and further your growth right now.
 * Your attention is more or less controlled by processes that are so deep that you don't have a tremendous amount of voluntary control over them.
+
+## Attention in Children
+
+![parenting/npr_how_to_get_kids_to_pay_attention.mp3](https://github.com/azer/notebook/blob/master/parenting/npr_how_to_get_kids_to_pay_attention.mp3)
