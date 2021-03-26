@@ -1,5 +1,7 @@
 ## Venture Capital 
 
+* [tiny.vc](https://www.tiny.vc/panda)
+
 * [Berlin Ventures](http://www.berlinventures.com/)
 * [Capnamic](https://capnamic.com/)
 * [Early Bird](https://earlybird.com/)
@@ -12,3 +14,4 @@
 * [Paua Ventures](https://angel.co/paua-ventures)
 * [Project A Ventures](https://www.project-a.com)
 * [Yields](https://angel.co/yields-internet-ventures)
+
