@@ -54,6 +54,10 @@ Author: [Greg Wilson](http://third-bit.com/) - [Source](https://mobile.twitter.c
 
 ## Investment Companies
 
+### Sweden 
+
+* [Creandum](https://www.creandum.com/)
+
 ### Worldwide
 
 * [Intel Capital](http://www.intelcapital.com/)
