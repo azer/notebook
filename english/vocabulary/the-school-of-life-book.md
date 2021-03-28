@@ -15,6 +15,8 @@
 * Subordinate position
 * Surface tension
 * Alarming evidence
+* mental horizon
+* tentative insights
 
 | Word | Definition | Türkçe |
 | ---- | ---------- | ------- |
