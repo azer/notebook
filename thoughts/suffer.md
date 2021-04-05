@@ -2,9 +2,9 @@
 
 ```
 Cümle kuşlar dile gelir yazım der,
-gövel turnam şam'a gelir güzüm der,
-benim yaralarım "tuzum, tuzum" der,
-bir derdim var, bin dermana değişmem.
+Gövel turnam Şam'a gelir güzüm der,
+Benim yaralarım "tuzum, tuzum" der,
+Bir derdim var, bin dermana değişmem.
 ```
 
 Harari's famous Sapiens book has a section about one big difference of humans from animals; we tell stories, animals don't. This power, ability create fictional entities and tell stories, helped us to create money, market economy, and technologies we have today.
@@ -18,7 +18,7 @@ The all three Abrahamic religions tell us the story of Adam and Eve, eating the 
 
 "Pain is a treasure, for it contains mercies." said Rumi, and suggested "These pains you feel are messengers. Listen to them". How could the pains can have messages in them ? Take the birth of a human being. The day mother gives the birth will start with contractions with an hour interval between them. As the baby gets closer to born, the interval will be lowered from hour to minutes. In other words, the pains will tell us how close is the baby to be born.
 
-Let's take another example. Depression. What is depression? Alain de Button defines it as "Sadness and anger that have for too long not been paid the attention they deserve". It's the state of the human being where earlier less major pains were not taken into account, so they grew into an interruption.
+Let's take another example. Depression. Alain de Button defines it as "Sadness and anger that have for too long not been paid the attention they deserve". So, if the less major "messages" sent were not received, a big & stronger one is sent with the potential of causing more suffering. It's the state of the human being where earlier less major pains were not taken into account, so they grew into a major interruption.
 
 Suffering is a part of being.
 
