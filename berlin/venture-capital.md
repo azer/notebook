@@ -14,4 +14,5 @@
 * [Paua Ventures](https://angel.co/paua-ventures)
 * [Project A Ventures](https://www.project-a.com)
 * [Yields](https://angel.co/yields-internet-ventures)
-
+* [firstmomentum](https://www.firstmomentum.vc/)
+* [system.one](http://www.systemone.vc/)
