@@ -11,9 +11,13 @@ I've been contemplating (and had a few attempts to build) a new web browser with
 
 ## No Tabbing Bar 🤯
 
-Open as many tabs you'd like. Tabbing bar is removed to promote clarity and focus. See the next screenshots for the replacement.
+Open as many tabs you'd like. Tabbing bar is removed to promote clarity and focus.
 
 ![](https://github.com/azer/fathomecat/blob/main/screencasts/screenshot.png?raw=true)
+
+Let's say you're shopping for children books and you'd like to switch to another page you opened previously. See the screenshot, demonstrating the view of the browser, after clicking the address bar: it sorts all the "open tabs" based on their relevancy to what's already open:
+
+![](https://raw.githubusercontent.com/azer/fathomecat/main/screencasts/tabbing%20view%20-%20amazon.png)
 
 ## Private and 90s Modes 💾
 
