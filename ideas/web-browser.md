@@ -87,7 +87,14 @@ That was a mistake and led me to failure quickly for following reasons;
 
 #### Next Strategy
 
-A better strategy is to not jump into all search problems at once, but picking the top priority and embedding it into the web browser. In the other words, the data backend we need would live inside the web browser, and wait until the time it'll be extracted into its own platform, to tackle more search problems, and grow into an external platform, an alternative search engine that works beats Google in quality, not quantity.
+**In summary:**
+
+* In the initial stages, an embedded search engine will promote new productivity and security features
+* Once the web browser reaches certain stage, there'll be an opportunity to extract this search engine to its own platform and grow
+
+**Details:**
+
+A better strategy is to not jump into all search problems at once, but picking the top priority and embedding it into the web browser. In the other words, the data backend we would live inside the web browser, and wait until the time it'll be extracted into its own platform, to tackle more search problems, and grow into an external platform, an alternative search engine that beats Google in quality, not quantity.
 
 To summarize, this web browser's growth strategy would be evolving its data layer into a separate platform that functions as:
 
