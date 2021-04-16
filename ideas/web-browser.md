@@ -1,8 +1,8 @@
 ## Rethinking modern web browsers
 
-The major web browsers have achieved great improvements on their platform problems, while delegating all the product problems to third party extensions. This strategy scaled somewhat well for over the last decade, but now we're seeing the limitations. Major web browsers fail to provide specifically good experience for the group of users who needs web browsers most; superusers doing most of their work accessing information and tools via web browsers.
+The major web browsers have achieved great improvements on their **platform problems**, while delegating all the **product problems** to third party extensions. This strategy scaled somewhat well for over the last decade, but now we're seeing the limitations; security is increasingly becoming a priority over innovation driven by browser extensions. 
 
-I believe this creates an opportunity for a **new web browser tailored for superusers**, by providing an opinionated web browsers for improving;
+This trend has been increasingly generating frustration for people who use desktop web browsers as their main interface to access information, communicate, be productive for their work: superusers. I believe there is an opportunity **new web browser tailored for superusers**, by providing an opinionated web browsers for improving;
 
 * [Productivity](#productivity)
 * [Privacy](#privacy)
@@ -18,7 +18,7 @@ The general approach is to;
 
 * Redesign tabbing bar
 * Reduce dependency on search engines (see Security)
-* Provide high-quality, builtin features for superusers, in favor of low-quality extensions
+* Provide high-quality, builtin features designed for superusers, in favor of low-quality extensions
 
 #### Redesigning tabbing bar
 
