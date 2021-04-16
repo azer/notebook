@@ -4,11 +4,11 @@ The major web browsers have achieved great improvements on their platform proble
 
 I believe this creates an opportunity for a **new web browser tailored for superusers**, by providing an opinionated web browsers for improving;
 
-* Productivity
-* Privacy
-* Security
+* [Productivity](#productivity)
+* [Privacy](#privacy)
+* [Security](#security)
 
-### Productivity
+## Productivity
 
 The general approach is to;
 
@@ -32,7 +32,7 @@ Once the tabbing bar is removed, the next problem to solve is switching between 
 
 ![](https://raw.githubusercontent.com/azer/fathomecat/main/screencasts/tabbing%20view%20-%20amazon.png)
 
-### Security
+## Security
 
 Web browsers delegate even the simpliest search functionalities to default search engines, as a part of their business model. This creates a giant security hole in the middle of two perfectly secure products:
 
@@ -48,7 +48,7 @@ To address this issue, web browsers need a new "backend" to help following featu
 
 ![](https://cldup.com/x4jKv2UaMv.png)
 
-### Privacy
+## Privacy
 
 A user logged into their company's Gmail account is also logged into Google (search), Chrome (web browser) and Youtube at same time. The browser offers an incognito mode, in a separate window.
 
