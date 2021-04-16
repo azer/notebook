@@ -8,8 +8,9 @@ I believe this creates an opportunity for a **new web browser tailored for super
 * [Privacy](#privacy)
 * [Security](#security)
 * [Search](#search)
+* [Strategy](#strategy)
 * [See it in action](#see-it-in-action)
-* [Past Learnings](#past-learnings)
+* [Status](#status)
 
 ## Productivity
 
@@ -73,9 +74,16 @@ Major web browsers are profitable by delegating search all together. At this poi
 * Answering an actual question ("what's the weather like?")
 * Document search ("music theory" -> 9 million results about music theory)
 
+## Strategy
+
 #### Previous Strategy (Failure)
 
-In my previous attempt, I saw these problems and dropped ball on working on the browser, and started building the platform that would enpower the search engine. That was a mistake and led me to failure quickly, as it was impossible to acquire users for the data backend that will empower a web browser in the future.
+In the last attempt, I was too quickly allured by search problems and dropped ball on working on the browser, and started building the platform that would enpower the search engine. 
+
+That was a mistake and led me to failure quickly for following reasons; 
+* It was really hard to acquire users
+* To acquire users, I had to build too many irrelevant features to grow my dataset (bookmarking)
+* The acquired users weren't interested in the overall direction
 
 #### Next Strategy
 
@@ -87,11 +95,19 @@ To summarize, this web browser's growth strategy would be evolving its data laye
 * A name (speed dial / keyword) index for URLs
 * A popularity (site / content / relevancy) index
 * A quality index (in later stages)
+* Personal and social relevancy index (in later stages)
 
 # See it in action
 
 ![](https://github.com/azer/fathomecat/blob/main/screencasts/browsing-800.gif?raw=true)
 
-# Development Status
+# Status
 
-An early proof of concept of this browser [is available in Github](https://github.com/kaktus/kaktus).
+* An early proof of concept of this browser [is available in Github](https://github.com/kaktus/kaktus). 
+* I'd like to build a company for this idea.
+* I see two paths ahead:
+  * A. Self-funding it first and acquiring customers before raising funds
+  * B. Finding an angel investor in my network who wants to help me get this going
+  * C. Outreaching lots of investors and pitching until I get enough funding
+* The most realistic option fitting my legal (being on visa) and financial status (my savings are insufficient) is the option B. I'd love to work with people within my network, to work on this idea.
+* 
