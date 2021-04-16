@@ -81,7 +81,7 @@ Major web browsers are profitable by delegating search all together. At this poi
 In the last attempt, I was too quickly allured by search problems and dropped ball on working on the browser, and started building the platform that would enpower the search engine. 
 
 That was a mistake and led me to failure quickly for following reasons; 
-* It was really hard to acquire users
+* It was really hard to acquire users for the data backend directly, while the web browser gained traction among developers already
 * To acquire users, I had to build too many irrelevant features to grow my dataset (bookmarking)
 * The acquired users weren't interested in the overall direction
 
