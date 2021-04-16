@@ -7,6 +7,7 @@ I believe this creates an opportunity for a **new web browser tailored for super
 * [Productivity](#productivity)
 * [Privacy](#privacy)
 * [Security](#security)
+* [See it in action](#see-it-in-action)
 
 ## Productivity
 
@@ -62,8 +63,6 @@ Check it out in the gifcast below:
 ![](https://github.com/azer/fathomecat/blob/main/screencasts/private-90s-mode.gif?raw=true)
 
 # See it in action
-
-I recorded this gifcast tonight. It's not exactly how Fat Home Cat look like at the end, but you get the idea.
 
 ![](https://github.com/azer/fathomecat/blob/main/screencasts/browsing-800.gif?raw=true)
 
