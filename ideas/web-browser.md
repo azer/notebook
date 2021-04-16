@@ -109,5 +109,7 @@ To summarize, this web browser's growth strategy would be evolving its data laye
   * A. Self-funding it first and acquiring customers before raising funds
   * B. Finding an angel investor in my network who wants to help me get this going
   * C. Outreaching lots of investors and pitching until I get enough funding
-* The most realistic option fitting my legal (being on visa) and financial status (my savings are insufficient) is the option B. I'd love to work with people within my network, to work on this idea.
-* 
+* The most realistic option fitting my legal (being on visa) and financial status (my savings are insufficient) is the option B. 
+* I'd love to work with people within my network, to work on this idea.
+* No co-founder yet. I'd like to take time to find out the right person.
+* I'm open for intros.
