@@ -1,4 +1,4 @@
-## Rethinking modern web browsers
+# Rethinking modern web browsers
 
 The major web browsers have achieved great improvements on their **platform problems**, while delegating all the **product problems** to third party extensions. This strategy scaled somewhat well for the last two decades, but now we're seeing the limitations; security is increasingly becoming a priority over innovation driven by browser extensions.
 
