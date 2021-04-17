@@ -170,7 +170,7 @@ That was a mistake and quickly led me to failure for the following reasons;
 
 ## Next Strategy
 
-* Build a great initial product. See [Product Focus](#product-focus) for initial scope. 
+* Build a great initial product. See [Product Focus](#product-focus) for the scope. 
 * Embed a tiny search engine to enable [productivity](#productivity) and [security](#security) features.
 * Reach 1000 customers who love the product.
 * Reach 1000 customers who would be highly disappointed without it.
