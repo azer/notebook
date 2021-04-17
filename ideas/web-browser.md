@@ -161,18 +161,18 @@ Where does this project stand in the market?
 
 ## Previous Strategy (Failure)
 
-In the last attempt, I was quickly allured by search problems and dropped ball on working on the browser itself. While there was a traction and interest to use the web browser MVP I released, I stopped working on the browser, and instead, started building the platform that would enpower the search engine.
+In the last attempt, I was quickly allured by search problems and dropped ball on working on the browser itself. While there was traction and interest in using the web browser MVP I released, I stopped working on the browser and instead started building the platform that would empower the search engine.
 
-That was a mistake and led me to failure quickly for following reasons;
-* It was really hard to acquire users for this data-collection platform in contrast to the web browser
-* To acquire users, I had to build too many irrelevant features to grow my dataset (bookmarking)
+That was a mistake and quickly led me to failure for the following reasons;
+* It was really hard to acquire users for this data collection platform in contrast to the web browser
+* To acquire users, I had to build too many irrelevant features to grow my dataset (bookmarks)
 * The acquired users weren't interested in the overall direction
 
 ## Next Strategy
 
 * Build a great initial product. See [Product Focus](#product-focus) for initial scope. 
-* Embed a tiny search engine that will promote [productivity](#productivity) and [security](#security) features.
-* Reach 1000 customers who loves the product.
+* Embed a tiny search engine to enable [productivity](#productivity) and [security](#security) features.
+* Reach 1000 customers who love the product.
 * Reach 1000 customers who would be highly disappointed without it.
 
 ## Growth
@@ -181,7 +181,7 @@ Below list shows what growth paths I project at this moment:
 
 #### A. Search
 
-Extracting its embedded search functionality to its own, dedicated and more sophisticated external platform that will tackle more search problems, with the objective of becoming a new search engine that beats Google in quality, not in quantity:
+Extracting its embedded search functionality into its own dedicated and more sophisticated external platform that will tackle more search problems, with the objective of becoming a new search engine that beats Google in quality, not in quantity, by providing:
 
 * A trust index for URLs
 * A name (speed dial / keyword) index for URLs
