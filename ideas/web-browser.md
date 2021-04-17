@@ -14,6 +14,9 @@ Index of contents:
   * [See it in action](#see-it-in-action)
 * [Market](#market)
 * [Strategy](#strategy)
+  * [Previous Strategy (Failure)](#previous-strategy-failure)
+  * [Next Strategy](#next-strategy)
+  * [Growth Strategy](#growth-strategy)
 * [Historical Context](#historical-context)
 * [Status](#status)
 
@@ -22,12 +25,13 @@ Index of contents:
 > In a world deluged by irrelevant information, clarity is power.
 ― Y. N. Harari
 
+
 ## Productivity
 
 The general approach is to;
 
-* Redesign tabbing bar
-* Reduce dependency on search engines (see Security)
+* Remove tabbing bar
+* Reduce dependency on search engines (more on [Security](#security))
 * Provide high-quality, builtin features designed for powerusers, replacing low-quality extensions
 
 ### Redesigning tabbing bar
@@ -160,21 +164,59 @@ That was a mistake and led me to failure quickly for following reasons;
 
 ## Next Strategy
 
-**Start:**
-
 * Build a great web browser target user group loves using it.
 * Embed a tiny search engine that will promote [productivity](#productivity) and [security](#security) features.
 * Reachi 1000 customers who loves the product and says "they'd be highly disappointed without it".
 
-**Growth:**
+## Growth Strategy
 
-The growth of the web browser will start by extracting its embedded search functionality to its own, dedicated and more sophisticated external platform that will tackle more search problems, with the objective of becoming a new search engine that beats Google in quantity, not in quality by becoming:
+Once the company reaches 1000 true fans, there're a few directions that can be taken. Below list explains each.
+
+#### A. Search
+
+Extracting its embedded search functionality to its own, dedicated and more sophisticated external platform that will tackle more search problems, with the objective of becoming a new search engine that beats Google in quantity, not in quality by becoming:
 
 * A trust index for URLs
 * A name (speed dial / keyword) index for URLs
 * A popularity (site / content / relevancy) index
 * A quality index (in later stages)
 * Personal and social relevancy index (in later stages)
+
+#### B. Privacy
+
+* Encrypted storage for personal browsing history
+* Full text search via the address bar
+
+#### C. Parental Controls
+
+* Offer a family account for users
+* Include parental settings that helps parents to manage their access to web safely
+
+#### D. Reading
+
+* Offer a reading mode enabled by default.
+* This mode cleans up the format, and makes every article look in the same standard view resembling Kindle.
+* Offer an alternative to archive.org, that keeps track of all articles but without their layout / formatting.
+
+#### E. Security
+
+* Extract web browser's "verification check" into its own service available for public.
+* Build a team that issues verification checks for websites
+* Charge website owners for the verification check issuing process
+
+#### F. Search + Privacy + Security
+
+* Provide an encrypted storage service for user's history and other personal data.
+* Build a search service that extracts metadata for any given url, disconnected from the storage service.
+* Same search service would issue verification checks for websites.
+* Sync the service data to web browser's local database, which enables next:
+* Provide personalized, local search engine for users, that will let them depend on external search engines even less.
+
+Here is a user story:
+
+* User likes to open a Youtube video she saw a month ago
+* Enters a few keywords she remembers, may be with some typo
+* The browser executes full text search engine on her search history and brings back results
 
 # Historical Context
 
