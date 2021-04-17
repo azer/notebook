@@ -227,7 +227,7 @@ Combines the previously mentioned growth paths;
 Historically, following attemps got me unique learnings about the challenges and opportunities of building web browsers;
 
 * 2011 - [Delicious Surf](http://github.com/azer/delicious-surf): Browser for old the bookmarking service del.icio.us. Linux only.
-* 2013 - Gezi Web Browser: YC Hackathon Finalist
+* 2013 - Gezi Web Browser: YCombinator Hackathon Finalist
 * 2016 - Jelly Web Browser: Internal project at Jelly.
 * 2016 - [Kaktus Web Browser](https://github.com/kaktus/kaktus): A prototype for experimenting with the product ideas I had. Gained traction among developers.
 * 2017 - [Kozmos](https://kodfabrik.com/journal/rethinking-web-browsers-and-bookmarking): A search product (powered by bookmarking) with Chrome extension implementing some of the product ideas listed here for Google Chrome as an extension.
