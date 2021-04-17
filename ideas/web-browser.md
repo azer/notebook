@@ -128,6 +128,8 @@ While Google has been enjoying its huge success in such a way discouraging anybo
 
 Where does this project stand in the market?
 
+* Platform parts of web browsers are becoming more and more unified. Microsoft now uses Blink, Google's fork of Apple's Webkit.
+* The late mover advantage we have today is to build a product that concentrates its resources into the product itself, rather than what major web browser did: rendering engines.
 * The target user group is people willing to pay for being more productive, in terms of doing more with their time, and being free from distractions, benefiting from more focus and clarity, rather than being exposed to multitasking by design.
 * **Superhuman** can be a role model for this; if a tool tailored for saving you X minutes every day, summing up to hours in weeks, why not to pay for $Y to save $Z ?
 * Additional to **saved hours** and **refined attention** values users would get are increased, end-to-end security and privacy.
