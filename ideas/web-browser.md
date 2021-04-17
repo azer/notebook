@@ -181,7 +181,7 @@ Below list shows what growth paths I project at this moment:
 
 #### A. Search
 
-Extracting its embedded search functionality to its own, dedicated and more sophisticated external platform that will tackle more search problems, with the objective of becoming a new search engine that beats Google in quantity, not in quality by becoming:
+Extracting its embedded search functionality to its own, dedicated and more sophisticated external platform that will tackle more search problems, with the objective of becoming a new search engine that beats Google in quality, not in quantity:
 
 * A trust index for URLs
 * A name (speed dial / keyword) index for URLs
