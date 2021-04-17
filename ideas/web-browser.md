@@ -164,7 +164,7 @@ That was a mistake and led me to failure quickly for following reasons;
 
 * Build a great web browser target user group loves using it.
 * Embed a tiny search engine that will promote [productivity](#productivity) and [security](#security) features.
-* The objective of the seed stages of the company will be reaching 1000 customers who loves the product and says "they'd be highly disappointed without it".
+* Reachi 1000 customers who loves the product and says "they'd be highly disappointed without it".
 
 **Growth:**
 
