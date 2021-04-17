@@ -28,6 +28,10 @@ Index of contents:
       * [E. Security](#e-security)
       * [F. Search + Privacy + Search](#f-search--privacy--security)
 * [Revenue](#revenue)
+  * [Model 1. Subscription](#model-1-subscription)
+  * [Model 2. Issuing Verification](#model-2-issuing-verification)
+  * [Model 3. Micropayments](#model-3-micropayments)
+  * [Model 4. Delay](#model-4-delay)
 * [Historical Context](#historical-context)
 * [Status](#status)
 
@@ -261,7 +265,7 @@ Potential iterations:
 * Introduce a standard for sending payments to any web address (blog, news, youtube video, or even a tweet)
 * Based on the attention paid into certain content, send a share of the subscription cost of the user to the content owner.
 
-#### Model 4. Delaying revenue until later stages
+#### Model 4. Delay
 
 * Stay free and focus on growth of the users.
 * Follow the [F. Search + Privacy + Search](#f-search--privacy--security) strategy for growth.
