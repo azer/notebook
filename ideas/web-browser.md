@@ -19,6 +19,9 @@ Index of contents:
 
 # Product Focus
 
+> In a world deluged by irrelevant information, clarity is power.
+― Y. N. Harari
+
 ## Productivity
 
 The general approach is to;
@@ -93,6 +96,9 @@ This will be done within the browser itself in the first stages of the company, 
 
 # Market
 
+> He who is not busy being born is busy dying.
+― Bob Dylan
+
 It can easily sound like a **terrible idea** to build a web browser, given;
 
 * They're free since Microsoft distributing IE with Windows
@@ -119,6 +125,12 @@ While Google has been enjoying its huge success in such a way discouraging anybo
   * This positioning keeps Google away from a competition targeting special group of users. Google will not be able to undo dozens of high-level decisions made several decades ago which doesn't make any sense for some of us today.
   * This positioning also keeps Google away from a competition to make users need search engines *less*. Firefox is also in the same position, as its revenue is based on sending users to Google, as well.
 * Apart from Google, there is a potential trend to build web browsers targeting privacy specifically. As I've described earlier in the [Security](#security) section, it's hard to claim being a privacy friendly web browser or being a privacy friendly search engine, without looking at the holistic user-story end-to-end.
+
+Where does this project stand in the market?
+
+* The target user group is people willing to pay for being more productive, in terms of doing more with their time, and being free from distractions, benefiting from more focus and clarity, rather than being exposed to multitasking by design.
+* **Superhuman** can be a role model for this; if a tool tailored for saving you X minutes every day, summing up to hours in weeks, why not to pay for $Y to save $Z ?
+* Additional to **saved hours** and **refined attention** values users would get are increased, end-to-end security and privacy.
 
 # Strategy
 
@@ -149,6 +161,16 @@ To summarize, this web browser's growth strategy would be evolving its data laye
 * A popularity (site / content / relevancy) index
 * A quality index (in later stages)
 * Personal and social relevancy index (in later stages)
+
+# Historical Context
+
+Historically, following attemps got me unique learnings about the challenges and opportunities of building web browsers;
+
+* 2011 - [Delicious Surf](http://github.com/azer/delicious-surf): Browser for old the bookmarking service del.icio.us. Linux only.
+* 2013 - Gezi Web Browser: YC Hackathon Finalist
+* 2016 - Jelly Web Browser: Internal project at Jelly.
+* 2016 - [Kaktus Web Browser](https://github.com/kaktus/kaktus): A prototype for experimenting with the product ideas I had. Gained traction among developers.
+* 2017 - [Kozmos](https://kodfabrik.com/journal/rethinking-web-browsers-and-bookmarking): A search product (powered by bookmarking) with Chrome extension implementing some of the product ideas listed here for Google Chrome as an extension.
 
 # Status
 
