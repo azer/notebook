@@ -13,6 +13,10 @@ Index of contents:
   * [Search](#search)
   * [See it in action](#see-it-in-action)
 * [Market](#market)
+  * [The Terrible Idea](#the-terrible-idea)
+  * [The Bloody Market](#the-bloody-market)
+  * [The Fragile Giant](#the-fragile-giant)
+  * [The Opportunity Market](#the-opportunity)
 * [Strategy](#strategy)
   * [Previous Strategy (Failure)](#previous-strategy-failure)
   * [Next Strategy](#next-strategy)
@@ -23,6 +27,7 @@ Index of contents:
       * [D. Reading](#d-reading)
       * [E. Security](#e-security)
       * [F. Search + Privacy + Search](#f-search--privacy--security)
+* [Revenue](#revenue)
 * [Historical Context](#historical-context)
 * [Status](#status)
 
@@ -120,12 +125,16 @@ This will be done within the browser itself in the first stages of the company, 
 > He who is not busy being born is busy dying.
 ― Bob Dylan
 
+## The Terrible Idea
+
 It can easily sound like a **terrible idea** to build a web browser, given;
 
 * They have been free since the time Microsoft distributed IE with Windows.
 * It takes an army of engineers to build the web browser's rendering engine.
 * Google dominates the market from both browser and search engine sides.
 * A giant like Mozilla barely manages to survive.
+
+## The Bloody Market
 
 The **status quo** does look like a bloody market, and it is understandable why we ended at this point:
 
@@ -135,27 +144,29 @@ The **status quo** does look like a bloody market, and it is understandable why 
 * Google interpreted the user patterns perfectly and converted them to simple & high impact products / features on great timing.
 * Google leveraged Apple's rendering engine to build its own browser, prioritizing that its search engine would be **the default interface of the internet**. This has been a huge success for Google.
 
+## The Fragile Giant
+
 While Google has been enjoying its huge success in such a way discouraging anybody who would attempt to compete with them, is it really **that strong?**
 
 * No new product will beat Google by competing with it, by doing what it does in a similar way.
+* However, I see 
 * Google's fragility is at its core.
   * Its web browser must target millions of people, from a tour guide in Eastern Sahara desert to a startup founder in LA.
   * Its web browser must be designed so that someone typing "basecamp" in their address bar should see a full page of ads, instead of the browser having the user open the Basecamp product without any friction. This is a **misaligned incentive** that directly affects Google's revenue.
   * Chrome's marketplace was very promising at the beginning, but the party is over for the developers. Google shifted to security-first policy and implemented really aggressive bots to delete extensions unless their authors are willing to fight back periodically.
   * This shift also makes sense for Google as the web browser is just an interface to the search engine for them. It doesn't really have to statisfy the needs of the power users.
-  * This positioning keeps Google away from a competition targeting special group of users. Google will not be able to undo dozens of high-level decisions made several decades ago which doesn't make any sense for some of us today.
-  * This positioning also keeps Google away from a competition to make users need search engines *less*. Firefox is also in the same position, as its revenue is based on sending users to Google, as well.
-* Apart from Google, there is a potential trend to build web browsers targeting privacy specifically. As I've described earlier in the [Security](#security) section, it's hard to claim to be a privacy-friendly web browser or a privacy-friendly search engine without looking at the holistic user story end-to-end.
+  * This positioning keeps Google away from a competition targeting special group of users, as their mission is to be a generic interface for internet, not a specifically good one.
+  * This positioning also keeps Google away from a competition for web browsers embedding search engine features and making them better for users. Firefox is also in the same position, as its revenue is based on sending users to Google, as well.
 
+## The Opportunity
 
-Where does this project stand in the market?
-
-* Platform parts of web browsers are becoming more and more unified. Microsoft now uses Blink, Google's fork of Apple's Webkit.
-* The **late mover advantage** we have today is to build a web browser that concentrates its resources into the product itself, rather than what major web browser did: rendering engines.
-* This product will **undo high-level, decades old product decisions**, remove **unconscious frictions** and offer better ones in the desktop browser market.
-* The target user group is people willing to pay for being more productive, doing more with their time, and being free from distractions, benefiting from more focus and clarity, rather than being exposed to multitasking by design.
-* **Superhuman** can be a role model for this; if a tool tailored for saving you X minutes every day, summing up to hours in weeks, why not to pay for $Y to save $Z ?
-* Additional to **saved hours** and **refined attention** values users would get are increased, end-to-end security and privacy.
+* **The browser wars** ended. Google won it with its pragmatism. Microsoft and Mozilla lost.
+* Microsoft now uses Blink, Google's fork of Apple's Webkit. Brave uses Chromium. 
+* All major desktop web browsers also have somewhat similar architectures and interfaces; their objective is to be generic, not specific.
+* This leaves room for a new web browser **creating its own category** with fresh perspective, being **great for a specific audience**, instead of **generic & mediocre for all**.
+* The **late mover advantage** is to build a web browser that concentrates its resources into the product itself, rather than what major web browser did: rendering engines.
+* Being specific will allow us to **undo high-level, decades old product decisions**, remove **unconscious frictions** and offer better ones.
+* Dominating a specific audience in the web browser market will also open the gate to other opportunities, such as expanding on the search direction. See [Strategy](#strategy) for more info.
 
 # Strategy
 
@@ -218,10 +229,43 @@ Extracting its embedded search functionality into its own dedicated and more sop
 Combines the previously mentioned growth paths;
 
 * Provide an encrypted storage service for user's history and other personal data.
-* Build a search service that extracts metadata for any given url, disconnected from the storage service.
+* Build a search service that extracts metadata (content + keywords) for any given url, disconnected from the storage service keeping personal data.
 * Same search service would issue verification checks for websites.
 * Sync the service data to web browser's local database, which enables next:
 * Provide personalized, local search engine for users, that will let them depend on external search engines even less.
+
+# Revenue
+
+Below lists the potential ways of monetization.
+
+#### Model 1. Subscription
+
+* Audience: people willing to pay for more productivity and focus on context, less distractions and multitasking.
+* Value proposition: measure how much time the browser saves, compare the monthly subscription cost with ( saved hours * the hourly rate of the user ).
+* Role model: Superhuman
+
+Potential iterations:
+
+* Hosting of the browser history safely in an encrypted store & sync'ing that automatically
+
+#### Model 2. Issuing Verification
+
+* At the beginning, a dataset distributed with the runtime will display whether if a website is "verified".
+* In the future, this can be extracted into its own platform and done by a team.
+* This can be priced per verification and become a de-facto standard for every new website.
+* See [Security](#security) for the product plan for introducing a verification check.
+* See [Strategy](#strategy) for the the evolution from the embedded dataset to an external platform.
+
+#### Model 3. Micropayments
+
+* Introduce a standard for sending payments to any web address (blog, news, youtube video, or even a tweet)
+* Based on the attention paid into certain content, send a share of the subscription cost of the user to the content owner.
+
+#### Model 4. Delaying revenue until later stages
+
+* Stay free and focus on growth of the users.
+* Follow the [F. Search + Privacy + Search](#f-search--privacy--security) strategy for growth.
+* Monetize the search with ads.
 
 # Historical Context
 
