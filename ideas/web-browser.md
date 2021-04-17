@@ -4,7 +4,7 @@ The major web browsers have achieved great improvements on their **platform prob
 
 This trend has been generating frustration for people who use desktop web browsers as their main interface to access information, communicate, be productive. I believe there is an opportunity for **a new web browser specifically tailored for power users**,  which prioritizes **product problems** over platform problems, comes with **opinionated defaults** and **builtin features** for helping power users to utilize their web browser for more productivity, security, privacy, and gradually search.
 
-Index of contents:
+**Index of contents:**
 
 * [Product Focus](#product-focus)
   * [Productivity](#productivity)
