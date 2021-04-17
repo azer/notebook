@@ -140,7 +140,7 @@ While Google has been enjoying its huge success in such a way discouraging anybo
 * No new product will beat Google by competing with it, by doing what it does in a similar way.
 * Google's fragility is at its core.
   * Its web browser must target millions of people, from a tour guide in Eastern Sahara desert to a startup founder in LA.
-  * Its web browser must be designed so that someone typing "basecamp" in their address bar should see a full page of ads, instead of the browser directing the user directly to the Basecamp product. This is a **misaligned incentive** that directly affects Google's revenue.
+  * Its web browser must be designed so that someone typing "basecamp" in their address bar should see a full page of ads, instead of the browser having the user open the Basecamp product without any friction. This is a **misaligned incentive** that directly affects Google's revenue.
   * Chrome's marketplace was very promising at the beginning, but the party is over for the developers. Google shifted to security-first policy and implemented really aggressive bots to delete extensions unless their authors are willing to fight back periodically.
   * This shift also makes sense for Google as the web browser is just an interface to the search engine for them. It doesn't really have to statisfy the needs of the power users.
   * This positioning keeps Google away from a competition targeting special group of users. Google will not be able to undo dozens of high-level decisions made several decades ago which doesn't make any sense for some of us today.
@@ -151,9 +151,9 @@ While Google has been enjoying its huge success in such a way discouraging anybo
 Where does this project stand in the market?
 
 * Platform parts of web browsers are becoming more and more unified. Microsoft now uses Blink, Google's fork of Apple's Webkit.
-* The **late mover advantage** we have today is to build a product that concentrates its resources into the product itself, rather than what major web browser did: rendering engines.
+* The **late mover advantage** we have today is to build a web browser that concentrates its resources into the product itself, rather than what major web browser did: rendering engines.
 * This product will **undo high-level, decades old product decisions**, remove **unconscious frictions** and offer better ones in the desktop browser market.
-* The target user group is people willing to pay for being more productive, in terms of doing more with their time, and being free from distractions, benefiting from more focus and clarity, rather than being exposed to multitasking by design.
+* The target user group is people willing to pay for being more productive, doing more with their time, and being free from distractions, benefiting from more focus and clarity, rather than being exposed to multitasking by design.
 * **Superhuman** can be a role model for this; if a tool tailored for saving you X minutes every day, summing up to hours in weeks, why not to pay for $Y to save $Z ?
 * Additional to **saved hours** and **refined attention** values users would get are increased, end-to-end security and privacy.
 
