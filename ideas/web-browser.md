@@ -170,8 +170,9 @@ That was a mistake and quickly led me to failure for the following reasons;
 
 ## Next Strategy
 
-* Build a great initial product. See [Product Focus](#product-focus) for the scope. 
-* Embed a tiny search engine to enable [productivity](#productivity) and [security](#security) features.
+* Get into the market as a web browser for power users, promoting its new design.
+* Build a private beta group with early adapters who are in alignment with the product vision.
+* Build a great initial product. See the [Product Focus](#product-focus) for the scope. 
 * Reach 1000 customers who love the product.
 * Reach 1000 customers who would be highly disappointed without it.
 
