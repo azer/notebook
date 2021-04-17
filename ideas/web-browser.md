@@ -206,6 +206,8 @@ Extracting its embedded search functionality to its own, dedicated and more soph
 
 #### F. Search + Privacy + Security
 
+Combines the previously mentioned growth paths;
+
 * Provide an encrypted storage service for user's history and other personal data.
 * Build a search service that extracts metadata for any given url, disconnected from the storage service.
 * Same search service would issue verification checks for websites.
