@@ -170,13 +170,14 @@ That was a mistake and led me to failure quickly for following reasons;
 
 ## Next Strategy
 
-* Build a great web browser target user group loves using it.
+* Build a great initial product. See [Product Focus](#product-focus) for initial scope. 
 * Embed a tiny search engine that will promote [productivity](#productivity) and [security](#security) features.
-* Reach 1000 customers who loves the product and says "they'd be highly disappointed without it".
+* Reach 1000 customers who loves the product.
+* Reach 1000 customers who would be highly disappointed without it.
 
 ## Growth
 
-Once the company reaches 1000 true fans, below list shows what growth paths I project at this moment:
+Below list shows what growth paths I project at this moment:
 
 #### A. Search
 
