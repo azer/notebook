@@ -212,12 +212,6 @@ Extracting its embedded search functionality to its own, dedicated and more soph
 * Sync the service data to web browser's local database, which enables next:
 * Provide personalized, local search engine for users, that will let them depend on external search engines even less.
 
-Here is a user story:
-
-* User likes to open a Youtube video she saw a month ago
-* Enters a few keywords she remembers, may be with some typo
-* The browser executes full text search engine on her search history and brings back results
-
 # Historical Context
 
 Historically, following attemps got me unique learnings about the challenges and opportunities of building web browsers;
