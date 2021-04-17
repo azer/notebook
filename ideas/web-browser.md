@@ -119,13 +119,13 @@ It can easily sound like a **terrible idea** to build a web browser, given;
 
 The **status quo** does look like a bloody market, and it is understandable why we ended at this point:
 
-* Maintaining different rendering engines for each new web browser caused Diseconomies of Scale. Each engine had to meet individually the rapidly inflated specifications for a number of standards.
-* Mozilla directed its resources on perfecting their platform, not the product.
+* Maintaining different rendering engines for each new web browser caused **Diseconomies of Scale**. Each engine had to meet individually the rapidly inflated specifications for a number of standards.
+* Mozilla directed its resources on perfecting their **platform, not the product**.
 * Product problems were delegated to extension market place, highly insecure and inefficient.
-* Google interpreted the user patterns perfectly and converted them to simple & high impact products / features immediately.
-* Google leveraged Apple's rendering engine to build its own browser, prioritizing that its search engine would be the default interface of the internet. This has been a huge success for Google.
+* Google interpreted the user patterns perfectly and converted them to simple & high impact products / features on great timing.
+* Google leveraged Apple's rendering engine to build its own browser, prioritizing that its search engine would be **the default interface of the internet**. This has been a huge success for Google.
 
-While Google has been enjoying its huge success in such a way discouraging anybody who would attempt to compete with them, is it really strong?
+While Google has been enjoying its huge success in such a way discouraging anybody who would attempt to compete with them, is it really **that strong?**
 
 * No new product will beat Google by competing with it, by doing what it does in a similar way.
 * Google's fragility is at its core.
@@ -136,12 +136,13 @@ While Google has been enjoying its huge success in such a way discouraging anybo
   * This positioning keeps Google away from a competition targeting special group of users. Google will not be able to undo dozens of high-level decisions made several decades ago which doesn't make any sense for some of us today.
   * This positioning also keeps Google away from a competition to make users need search engines *less*. Firefox is also in the same position, as its revenue is based on sending users to Google, as well.
 * Apart from Google, there is a potential trend to build web browsers targeting privacy specifically. As I've described earlier in the [Security](#security) section, it's hard to claim to be a privacy-friendly web browser or a privacy-friendly search engine without looking at the holistic user story end-to-end.
+* 
 
 Where does this project stand in the market?
 
 * Platform parts of web browsers are becoming more and more unified. Microsoft now uses Blink, Google's fork of Apple's Webkit.
 * The **late mover advantage** we have today is to build a product that concentrates its resources into the product itself, rather than what major web browser did: rendering engines.
-* We haven't seen any product bold enough to undo high-level, decades old product decisions, and offer better ones in the desktop browser market.
+* This product will **undo high-level, decades old product decisions**, remove **unconscious frictions** and offer better ones in the desktop browser market.
 * The target user group is people willing to pay for being more productive, in terms of doing more with their time, and being free from distractions, benefiting from more focus and clarity, rather than being exposed to multitasking by design.
 * **Superhuman** can be a role model for this; if a tool tailored for saving you X minutes every day, summing up to hours in weeks, why not to pay for $Y to save $Z ?
 * Additional to **saved hours** and **refined attention** values users would get are increased, end-to-end security and privacy.
