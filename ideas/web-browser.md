@@ -30,7 +30,7 @@ The general approach is to;
 * Reduce dependency on search engines (see Security)
 * Provide high-quality, builtin features designed for powerusers, replacing low-quality extensions
 
-#### Redesigning tabbing bar
+### Redesigning tabbing bar
 
 The horizontal tabbing bar was designed for the internet 30 years ago, and hasn't changed since then. Here are some problems with modern tabbing:
 
