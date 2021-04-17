@@ -17,6 +17,12 @@ Index of contents:
   * [Previous Strategy (Failure)](#previous-strategy-failure)
   * [Next Strategy](#next-strategy)
   * [Growth Strategy](#growth-strategy)
+      * [A. Search](#a-search)
+      * [B. Privacy](#b-privacy)
+      * [C. Parental Controls](#c-parental-controls)
+      * [D. Reading](#d-reading)
+      * [E. Security](#e-security)
+      * [F. Search + Privacy + Search](#f-search--privacy--security)
 * [Historical Context](#historical-context)
 * [Status](#status)
 
@@ -194,8 +200,8 @@ Extracting its embedded search functionality to its own, dedicated and more soph
 
 #### D. Reading
 
-* Offer a reading mode enabled by default.
-* This mode cleans up the format, and makes every article look in the same standard view resembling Kindle.
+* Offer a reading mode enabled by default, that resembles Kindle.
+* Offer better lookup features to dictionaries and wikipedia summaries, also resembling Kindle.
 * Offer an alternative to archive.org, that keeps track of all articles but without their layout / formatting.
 
 #### E. Security
