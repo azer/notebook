@@ -153,7 +153,6 @@ The **status quo** does look like a bloody market, and it is understandable why 
 While Google has been enjoying its huge success in such a way discouraging anybody who would attempt to compete with them, is it really **that strong?**
 
 * No new product will beat Google by competing with it, by doing what it does in a similar way.
-* However, I see 
 * Google's fragility is at its core.
   * Its web browser must target millions of people, from a tour guide in Eastern Sahara desert to a startup founder in LA.
   * Its web browser must be designed so that someone typing "basecamp" in their address bar should see a full page of ads, instead of the browser having the user open the Basecamp product without any friction. This is a **misaligned incentive** that directly affects Google's revenue.
