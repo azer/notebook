@@ -160,16 +160,15 @@ That was a mistake and led me to failure quickly for following reasons;
 
 ## Next Strategy
 
-**Summary:**
+**Start:**
 
-* In the initial stages, an embedded search engine will promote new productivity and security features
-* Once the web browser reaches certain stage, there'll be an opportunity to extract this search engine to its own platform and grow
+* Build a great web browser target user group loves using it.
+* Embed a tiny search engine that will promote [productivity](#productivity) and [security](#security) features.
+* The objective of the seed stages of the company will be reaching 1000 customers who loves the product and says "they'd be highly disappointed without it".
 
-**Details:**
+**Growth:**
 
-A better strategy is to not jump into all search problems at once, but picking the top priority and embedding it into the web browser. In the other words, the data backend we would live inside the web browser, and wait until the time it'll be extracted into its own platform, to tackle more search problems, and grow into an external platform, an alternative search engine that beats Google in quality, not quantity.
-
-To summarize, this web browser's growth strategy would be evolving its data layer into a separate platform that functions as:
+The growth of the web browser will start by extracting its embedded search functionality to its own, dedicated and more sophisticated external platform that will tackle more search problems, with the objective of becoming a new search engine that beats Google in quantity, not in quality by becoming:
 
 * A trust index for URLs
 * A name (speed dial / keyword) index for URLs
