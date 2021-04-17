@@ -1,8 +1,8 @@
 ## Rethinking modern web browsers
 
-The major web browsers have achieved great improvements on their **platform problems**, while delegating all the **product problems** to third party extensions. This strategy scaled somewhat well for over the last decade, but now we're seeing the limitations; security is increasingly becoming a priority over innovation driven by browser extensions. 
+The major web browsers have achieved great improvements on their **platform problems**, while delegating all the **product problems** to third party extensions. This strategy scaled somewhat well for the last two decades, but now we're seeing the limitations; security is increasingly becoming a priority over innovation driven by browser extensions.
 
-This trend has been generating frustration for people who use desktop web browsers as their main interface to access information, communicate, be productive for their work: professionals with high hourly rates. I believe there is an opportunity for **a new web browser tailored for power users**,  which prioritizes **product problems** over platform trade offs, comes with **opinionated defaults** and features for improving; productivity, security, privacy, and gradually search.
+This trend has been generating frustration for people who use desktop web browsers as their main interface to access information, communicate, be productive. I believe there is an opportunity for **a new web browser specifically tailored for power users**,  which prioritizes **product problems** and trades off some platform problems (e.g extensions), comes with **opinionated defaults** and **builtin features** for improving; productivity, security, privacy, and gradually search.
 
 Index of contents:
 
@@ -14,6 +14,7 @@ Index of contents:
   * [See it in action](#see-it-in-action)
 * [Market](#market)
 * [Strategy](#strategy)
+* [Historical Context](#historical-context)
 * [Status](#status)
 
 # Product Focus
@@ -67,7 +68,7 @@ Instead of a new separate window, we could offer users enabling two "modes" per 
 * **Private Mode:** Keeps the site data (cookies etc) in a private partition, so the site can't profile you.
 * **90s Mode:** Turns off some milennium technology we can live without (e.g JavaScript) so you get true 90s experience on the selected website. Works really nice.
 
-Check it out in the gifcast below: 
+Check it out in the gifcast below:
 
 ![](https://github.com/azer/fathomecat/blob/main/screencasts/private-90s-mode.gif?raw=true)
 
@@ -75,22 +76,57 @@ Check it out in the gifcast below:
 
 Major web browsers are profitable by delegating search all together. At this point, let's look at the use cases of a search engine:
 
-* Converting a human friendly input to a url ("welsfargo" -> "wellsfargo.com") 
+* Converting a human friendly input to a url ("welsfargo" -> "wellsfargo.com")
 * Find a content you already know ("coursera music theory")
 * Answering an actual question ("what's the weather like?")
 * Document search ("music theory" -> 9 million results about music theory)
+
+The first version of this web browser will cover only the first use case, understanding human inputs and taking the user directly to the website without involving any third party search engine.
+
+In other words, a user entering "basecamp" will not be taken in to a page full of advertise given by Basecamp competitors, and 4 million search results. A user entering "basecamp" to the address bar will be taken to "basecamp.com" directly, leveraging the dataset embedded into the browser itself.
+
+This will be done within the browser itself in the first stages of the company, and evolve into its own platform tackling more search problems in the future. See [Strategy](#strategy) section for more.
 
 ## See it in action
 
 ![](https://github.com/azer/fathomecat/blob/main/screencasts/browsing-800.gif?raw=true)
 
+# Market
+
+It can easily sound like a **terrible idea** to build a web browser, given;
+
+* They're free since Microsoft distributing IE with Windows
+* It takes an army of engineers to build the rendering engine of the web browser.
+* Google dominates the market from both browser and search engine sides.
+* A giant like Mozilla is slowly dying.
+
+The **status-quo** is indeed looks like a bloody market, and it makes really sense why we ended up at this point:
+
+* It didn't make sense to maintain different rendering engines for each new web browser. This wasted lots of resources, given each engine needed to keep up with rapidly inflated specifications for number of standards.
+* Mozilla directed its resources on perfecting their platform, not the product.
+* Product problems were delegated to extension market place, highly insecure and inefficient.
+* Google interpreted the user patterns perfectly and converted them to simple & high impact products / features immediately.
+* Google leveraged Apple's rendering engine to build its own browser, prioritizing that its search engine would be the default interface of the internet. This has been a huge success for both Google.
+
+While Google has been enjoying its huge success in such a way discouraging anybody who would attempt to compete with them, is it really strong?
+
+* No new product will beat Google, by competing with it, doing what it does in a similar way.
+* The fragility of Google is in the core of it;
+  * Its web browser have to target millions of people, from a tour guide in Eastern Sahara desert to a startup founder in LA.
+  * Its web browser has to be designed in away that somebody typing "basecamp" to their address bar has to be shown a full page of advertise, instead of browser taking the user directly to the Basecamp product. This is an **unconscious friction** with direct influence on Google's revenue.
+  * Chrome's marketplace was very promising at the beginning but party is over for the developers. Google shifted to security-first policy, and implemented really aggressive bots to delete extensions unless their authors are willing to fight back periodically.
+  * This shift also makes sense for Google, as the web browser for them is just an interface for the search engine. It doesn't really have to satisfy the needs of the power users.
+  * This positioning keeps Google away from a competition targeting special group of users. Google will not be able to undo dozens of high-level decisions made several decades ago which doesn't make any sense for some of us today.
+  * This positioning also keeps Google away from a competition to make users need search engines *less*. Firefox is also in the same position, as its revenue is based on sending users to Google, as well.
+* Apart from Google, there is a potential trend to build web browsers targeting privacy specifically. As I've described earlier in the [Security](#security) section, it's hard to claim being a privacy friendly web browser or being a privacy friendly search engine, without looking at the holistic user-story end-to-end.
+
 # Strategy
 
 ## Previous Strategy (Failure)
 
-In the last attempt, I was quickly allured by search problems and dropped ball on working on the browser itself. While there was a traction and interest to use the web browser MVP I released, I stopped working on the browser, and instead, started building the platform that would enpower the search engine. 
+In the last attempt, I was quickly allured by search problems and dropped ball on working on the browser itself. While there was a traction and interest to use the web browser MVP I released, I stopped working on the browser, and instead, started building the platform that would enpower the search engine.
 
-That was a mistake and led me to failure quickly for following reasons; 
+That was a mistake and led me to failure quickly for following reasons;
 * It was really hard to acquire users for this data-collection platform in contrast to the web browser
 * To acquire users, I had to build too many irrelevant features to grow my dataset (bookmarking)
 * The acquired users weren't interested in the overall direction
@@ -116,13 +152,13 @@ To summarize, this web browser's growth strategy would be evolving its data laye
 
 # Status
 
-* An early proof of concept of this browser [is available in Github](https://github.com/kaktus/kaktus). 
+* An early proof of concept of this browser [is available in Github](https://github.com/kaktus/kaktus).
 * This early proof gained traction among developers with no marketing efforts. See [Strategy](#strategy) for details.
 * I see two paths ahead:
   * A. Self-funding it first and acquiring customers before raising funds
   * B. Finding an angel investor in my network who wants to help me get this going
   * C. Outreaching lots of investors and pitching until I get enough funding
-* The most realistic option fitting my legal (being on visa) and financial status (my savings are insufficient) is the option B. 
+* The most realistic option fitting my legal (being on visa) and financial status (my savings are insufficient) is the option B.
 * I'd love to work with people within my network, to work on this idea.
 * No co-founder yet. I plan to hire only a co-founder during the first year.
 * I'm open for intros.
