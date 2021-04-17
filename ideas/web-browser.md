@@ -136,7 +136,7 @@ While Google has been enjoying its huge success in such a way discouraging anybo
   * This positioning keeps Google away from a competition targeting special group of users. Google will not be able to undo dozens of high-level decisions made several decades ago which doesn't make any sense for some of us today.
   * This positioning also keeps Google away from a competition to make users need search engines *less*. Firefox is also in the same position, as its revenue is based on sending users to Google, as well.
 * Apart from Google, there is a potential trend to build web browsers targeting privacy specifically. As I've described earlier in the [Security](#security) section, it's hard to claim to be a privacy-friendly web browser or a privacy-friendly search engine without looking at the holistic user story end-to-end.
-* 
+
 
 Where does this project stand in the market?
 
