@@ -2,15 +2,21 @@
 
 The major web browsers have achieved great improvements on their **platform problems**, while delegating all the **product problems** to third party extensions. This strategy scaled somewhat well for over the last decade, but now we're seeing the limitations; security is increasingly becoming a priority over innovation driven by browser extensions. 
 
-This trend has been increasingly generating frustration for people who use desktop web browsers as their main interface to access information, communicate, be productive for their work: superusers. I believe there is an opportunity **new web browser tailored for superusers**, by providing an opinionated web browsers for improving;
+This trend has been generating frustration for people who use desktop web browsers as their main interface to access information, communicate, be productive for their work: professionals with high hourly rates. I believe there is an opportunity for **a new web browser tailored for power users**,  which prioritizes **product problems** over platform trade offs, comes with **opinionated defaults** and features for improving; productivity, security, privacy, and gradually search.
 
-* [Productivity](#productivity)
-* [Privacy](#privacy)
-* [Security](#security)
-* [Search](#search)
+Index of contents:
+
+* [Product Focus](#product-focus)
+  * [Productivity](#productivity)
+  * [Privacy](#privacy)
+  * [Security](#security)
+  * [Search](#search)
+  * [See it in action](#see-it-in-action)
+* [Market](#market)
 * [Strategy](#strategy)
-* [See it in action](#see-it-in-action)
 * [Status](#status)
+
+# Product Focus
 
 ## Productivity
 
@@ -18,7 +24,7 @@ The general approach is to;
 
 * Redesign tabbing bar
 * Reduce dependency on search engines (see Security)
-* Provide high-quality, builtin features designed for superusers, in favor of low-quality extensions
+* Provide high-quality, builtin features designed for powerusers, in favor of low-quality extensions
 
 #### Redesigning tabbing bar
 
@@ -74,20 +80,24 @@ Major web browsers are profitable by delegating search all together. At this poi
 * Answering an actual question ("what's the weather like?")
 * Document search ("music theory" -> 9 million results about music theory)
 
-## Strategy
+## See it in action
 
-#### Previous Strategy (Failure)
+![](https://github.com/azer/fathomecat/blob/main/screencasts/browsing-800.gif?raw=true)
 
-In the last attempt, I was too quickly allured by search problems and dropped ball on working on the browser, and started building the platform that would enpower the search engine. 
+# Strategy
+
+## Previous Strategy (Failure)
+
+In the last attempt, I was quickly allured by search problems and dropped ball on working on the browser itself. While there was a traction and interest to use the web browser MVP I released, I stopped working on the browser, and instead, started building the platform that would enpower the search engine. 
 
 That was a mistake and led me to failure quickly for following reasons; 
-* It was really hard to acquire users for the data backend directly, while the web browser gained traction among developers already
+* It was really hard to acquire users for this data-collection platform in contrast to the web browser
 * To acquire users, I had to build too many irrelevant features to grow my dataset (bookmarking)
 * The acquired users weren't interested in the overall direction
 
-#### Next Strategy
+## Next Strategy
 
-**In summary:**
+**Summary:**
 
 * In the initial stages, an embedded search engine will promote new productivity and security features
 * Once the web browser reaches certain stage, there'll be an opportunity to extract this search engine to its own platform and grow
@@ -104,19 +114,15 @@ To summarize, this web browser's growth strategy would be evolving its data laye
 * A quality index (in later stages)
 * Personal and social relevancy index (in later stages)
 
-# See it in action
-
-![](https://github.com/azer/fathomecat/blob/main/screencasts/browsing-800.gif?raw=true)
-
 # Status
 
 * An early proof of concept of this browser [is available in Github](https://github.com/kaktus/kaktus). 
-* I'd like to build a company for this idea.
+* This early proof gained traction among developers with no marketing efforts. See [Strategy](#strategy) for details.
 * I see two paths ahead:
   * A. Self-funding it first and acquiring customers before raising funds
   * B. Finding an angel investor in my network who wants to help me get this going
   * C. Outreaching lots of investors and pitching until I get enough funding
 * The most realistic option fitting my legal (being on visa) and financial status (my savings are insufficient) is the option B. 
 * I'd love to work with people within my network, to work on this idea.
-* No co-founder yet. I'd like to take time to find out the right person.
+* No co-founder yet. I plan to hire only a co-founder during the first year.
 * I'm open for intros.
