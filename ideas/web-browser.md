@@ -112,31 +112,30 @@ This will be done within the browser itself in the first stages of the company, 
 
 It can easily sound like a **terrible idea** to build a web browser, given;
 
-* They're free since Microsoft distributing IE with Windows
-* It takes an army of engineers to build the rendering engine of the web browser.
+* They have been free since the time Microsoft distributed IE with Windows.
+* It takes an army of engineers to build the web browser's rendering engine.
 * Google dominates the market from both browser and search engine sides.
-* A giant like Mozilla is slowly dying.
+* A giant like Mozilla barely manages to survive.
 
-The **status-quo** is indeed looks like a bloody market, and it makes really sense why we ended up at this point:
+The **status quo** does look like a bloody market, and it is understandable why we ended at this point:
 
-* It didn't make sense to maintain different rendering engines for each new web browser. This wasted lots of resources, given each engine needed to keep up with rapidly inflated specifications for number of standards.
+* Maintaining different rendering engines for each new web browser caused Diseconomies of Scale. Each engine had to meet individually the rapidly inflated specifications for a number of standards.
 * Mozilla directed its resources on perfecting their platform, not the product.
 * Product problems were delegated to extension market place, highly insecure and inefficient.
 * Google interpreted the user patterns perfectly and converted them to simple & high impact products / features immediately.
-* Google leveraged Apple's rendering engine to build its own browser, prioritizing that its search engine would be the default interface of the internet. This has been a huge success for both Google.
+* Google leveraged Apple's rendering engine to build its own browser, prioritizing that its search engine would be the default interface of the internet. This has been a huge success for Google.
 
 While Google has been enjoying its huge success in such a way discouraging anybody who would attempt to compete with them, is it really strong?
 
-* No new product will beat Google, by competing with it, doing what it does in a similar way.
-* The fragility of Google is in the core of it;
-  * Its web browser have to target millions of people, from a tour guide in Eastern Sahara desert to a startup founder in LA.
-  * Its web browser has to be designed in away that somebody typing "basecamp" to their address bar has to be shown a full page of advertise, instead of browser taking the user directly to the Basecamp product. This is an **unconscious friction** with direct influence on Google's revenue.
-  * Chrome's marketplace was very promising at the beginning but party is over for the developers. Google shifted to security-first policy, and implemented really aggressive bots to delete extensions unless their authors are willing to fight back periodically.
-  * This shift also makes sense for Google, as the web browser for them is just an interface for the search engine. It doesn't really have to satisfy the needs of the power users.
+* No new product will beat Google by competing with it, by doing what it does in a similar way.
+* Google's fragility is at its core.
+  * Its web browser must target millions of people, from a tour guide in Eastern Sahara desert to a startup founder in LA.
+  * Its web browser must be designed so that someone typing "basecamp" in their address bar should see a full page of ads, instead of the browser directing the user directly to the Basecamp product. This is a **misaligned incentive** that directly affects Google's revenue.
+  * Chrome's marketplace was very promising at the beginning, but the party is over for the developers. Google shifted to security-first policy and implemented really aggressive bots to delete extensions unless their authors are willing to fight back periodically.
+  * This shift also makes sense for Google as the web browser is just an interface to the search engine for them. It doesn't really have to statisfy the needs of the power users.
   * This positioning keeps Google away from a competition targeting special group of users. Google will not be able to undo dozens of high-level decisions made several decades ago which doesn't make any sense for some of us today.
   * This positioning also keeps Google away from a competition to make users need search engines *less*. Firefox is also in the same position, as its revenue is based on sending users to Google, as well.
-  * Apart from the web browser, nobody wants a search engine returning 9 million results, with lots of spammy pages filling the front pages. We're not able to get quality results from Google anymore.
-* Apart from Google, there is a potential trend to build web browsers targeting privacy specifically. As I've described earlier in the [Security](#security) section, it's hard to claim being a privacy friendly web browser or being a privacy friendly search engine, without looking at the holistic user-story end-to-end.
+* Apart from Google, there is a potential trend to build web browsers targeting privacy specifically. As I've described earlier in the [Security](#security) section, it's hard to claim to be a privacy-friendly web browser or a privacy-friendly search engine without looking at the holistic user story end-to-end.
 
 Where does this project stand in the market?
 
