@@ -28,7 +28,7 @@ The general approach is to;
 
 * Redesign tabbing bar
 * Reduce dependency on search engines (see Security)
-* Provide high-quality, builtin features designed for powerusers, in favor of low-quality extensions
+* Provide high-quality, builtin features designed for powerusers, replacing low-quality extensions
 
 #### Redesigning tabbing bar
 
@@ -36,15 +36,26 @@ The horizontal tabbing bar was designed for the internet 30 years ago, and hasn'
 
 * It requires manual management
 * Default order is by date and time the tab is opened
-* Focus and context is not supported, multitasking and distraction is promoted
+* Multitasking and distraction is promoted, instead of focus, clarity and context
 
-To address these issues, we can get rid of the tabbing bar all together, and show the user what's exactly relevant:
+**Change 1. No tabbing bar**
 
-![](https://github.com/azer/fathomecat/blob/main/screencasts/screenshot.png?raw=true)
+Show user only what's relevant to their context by default, nothing else.
 
-Once the tabbing bar is removed, the next problem to solve is switching between related pages. Let's say you're shopping for children books and you'd like to switch to another page you opened previously. See the screenshot, demonstrating the view of the browser, after clicking the address bar: it sorts all the "open tabs" based on their relevancy to what's already open:
+![](https://github.com/azer/fathomecat/blob/main/screencasts/screenshot.png?raw=true**
+
+**Change 2. Dropdown tabbing**
+
+* Open up a rich address menu with tabs, bookmarks and history
+* Sort them based on their relevancy to the context, instead of date & time they were opened at
+* Automatically manage them, instead of manual
+* The dropdown shows a menu for each tab, on the right.
+
+An example use-case: user is shopping children books on Amazon. The dropdown tabbing menu listed by their relevancy to the book.
 
 ![](https://raw.githubusercontent.com/azer/fathomecat/main/screencasts/tabbing%20view%20-%20amazon.png)
+
+Check out [See it in action](#see-it-in-action) for a video.
 
 ## Security
 
@@ -124,12 +135,13 @@ While Google has been enjoying its huge success in such a way discouraging anybo
   * This shift also makes sense for Google, as the web browser for them is just an interface for the search engine. It doesn't really have to satisfy the needs of the power users.
   * This positioning keeps Google away from a competition targeting special group of users. Google will not be able to undo dozens of high-level decisions made several decades ago which doesn't make any sense for some of us today.
   * This positioning also keeps Google away from a competition to make users need search engines *less*. Firefox is also in the same position, as its revenue is based on sending users to Google, as well.
+  * Apart from the web browser, nobody wants a search engine returning 9 million results, with lots of spammy pages filling the front pages. We're not able to get quality results from Google anymore.
 * Apart from Google, there is a potential trend to build web browsers targeting privacy specifically. As I've described earlier in the [Security](#security) section, it's hard to claim being a privacy friendly web browser or being a privacy friendly search engine, without looking at the holistic user-story end-to-end.
 
 Where does this project stand in the market?
 
 * Platform parts of web browsers are becoming more and more unified. Microsoft now uses Blink, Google's fork of Apple's Webkit.
-* The late mover advantage we have today is to build a product that concentrates its resources into the product itself, rather than what major web browser did: rendering engines.
+* The **late mover advantage** we have today is to build a product that concentrates its resources into the product itself, rather than what major web browser did: rendering engines.
 * We haven't seen any product bold enough to undo high-level, decades old product decisions, and offer better ones in the desktop browser market.
 * The target user group is people willing to pay for being more productive, in terms of doing more with their time, and being free from distractions, benefiting from more focus and clarity, rather than being exposed to multitasking by design.
 * **Superhuman** can be a role model for this; if a tool tailored for saving you X minutes every day, summing up to hours in weeks, why not to pay for $Y to save $Z ?
