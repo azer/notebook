@@ -161,9 +161,10 @@ Where does this project stand in the market?
 
 ## Previous Strategy (Failure)
 
-In the last attempt, I was quickly allured by search problems and dropped ball on working on the browser itself. While there was traction and interest in using the web browser MVP I released, I stopped working on the browser and instead started building the platform that would empower the search engine.
+In the last attempt, I was quickly allured by search problems and dropped ball on working on the browser itself. I stopped working on the browser and instead doubled-down building the platform that would empower the search engine.
 
 That was a mistake and quickly led me to failure for the following reasons;
+
 * It was really hard to acquire users for this data collection platform in contrast to the web browser
 * To acquire users, I had to build too many irrelevant features to grow my dataset (bookmarks)
 * The acquired users weren't interested in the overall direction
