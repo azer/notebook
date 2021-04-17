@@ -28,7 +28,7 @@ The general approach is to;
 
 * Redesign tabbing bar
 * Reduce dependency on search engines (see Security)
-* Provide high-quality, builtin features designed for powerusers, in favor of low-quality extensions
+* Provide high-quality, builtin features designed for powerusers, replacing low-quality extensions
 
 #### Redesigning tabbing bar
 
@@ -36,15 +36,26 @@ The horizontal tabbing bar was designed for the internet 30 years ago, and hasn'
 
 * It requires manual management
 * Default order is by date and time the tab is opened
-* Focus and context is not supported, multitasking and distraction is promoted
+* Multitasking and distraction is promoted, instead of focus, clarity and context
 
-To address these issues, we can get rid of the tabbing bar all together, and show the user what's exactly relevant:
+**Change 1. No tabbing bar**
+
+Show user only what's relevant to their context by default, nothing else.
 
 ![](https://github.com/azer/fathomecat/blob/main/screencasts/screenshot.png?raw=true)
 
-Once the tabbing bar is removed, the next problem to solve is switching between related pages. Let's say you're shopping for children books and you'd like to switch to another page you opened previously. See the screenshot, demonstrating the view of the browser, after clicking the address bar: it sorts all the "open tabs" based on their relevancy to what's already open:
+**Change 2. Dropdown tabbing**
+
+* Open up a rich address menu with tabs, bookmarks and history
+* Sort them based on their relevancy to the context, instead of date & time they were opened at
+* Automatically manage them, instead of manual
+* The dropdown shows a menu for each tab, on the right.
+
+An example use-case: user is shopping children books on Amazon. The dropdown tabbing menu listed by their relevancy to the book.
 
 ![](https://raw.githubusercontent.com/azer/fathomecat/main/screencasts/tabbing%20view%20-%20amazon.png)
+
+Check out [See it in action](#see-it-in-action) for a video.
 
 ## Security
 
@@ -128,6 +139,9 @@ While Google has been enjoying its huge success in such a way discouraging anybo
 
 Where does this project stand in the market?
 
+* Platform parts of web browsers are becoming more and more unified. Microsoft now uses Blink, Google's fork of Apple's Webkit.
+* The **late mover advantage** we have today is to build a product that concentrates its resources into the product itself, rather than what major web browser did: rendering engines.
+* We haven't seen any product bold enough to undo high-level, decades old product decisions, and offer better ones in the desktop browser market.
 * The target user group is people willing to pay for being more productive, in terms of doing more with their time, and being free from distractions, benefiting from more focus and clarity, rather than being exposed to multitasking by design.
 * **Superhuman** can be a role model for this; if a tool tailored for saving you X minutes every day, summing up to hours in weeks, why not to pay for $Y to save $Z ?
 * Additional to **saved hours** and **refined attention** values users would get are increased, end-to-end security and privacy.
