@@ -42,7 +42,7 @@ The horizontal tabbing bar was designed for the internet 30 years ago, and hasn'
 
 Show user only what's relevant to their context by default, nothing else.
 
-![](https://github.com/azer/fathomecat/blob/main/screencasts/screenshot.png?raw=true**
+![](https://github.com/azer/fathomecat/blob/main/screencasts/screenshot.png?raw=true)
 
 **Change 2. Dropdown tabbing**
 
