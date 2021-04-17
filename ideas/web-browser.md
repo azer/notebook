@@ -236,11 +236,3 @@ Historically, following attemps got me unique learnings about the challenges and
 
 * An early proof of concept of this browser [is available in Github](https://github.com/kaktus/kaktus).
 * This early proof gained traction among developers with no marketing efforts. See [Strategy](#strategy) for details.
-* I see two paths ahead:
-  * A. Self-funding it first and acquiring customers before raising funds
-  * B. Finding an angel investor in my network who wants to help me get this going
-  * C. Outreaching lots of investors and pitching until I get enough funding
-* The most realistic option fitting my legal (being on visa) and financial status (my savings are insufficient) is the option B.
-* I'd love to work with people within my network, to work on this idea.
-* No co-founder yet. I plan to hire only a co-founder during the first year.
-* I'm open for intros.
