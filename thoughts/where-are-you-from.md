@@ -10,9 +10,7 @@ Who am I? How am I doing? What do I do ? What do I suffer from? What are some go
 
 Not interesting.
 
-I was born in Turkey. Indefensibly, I was born as Turkish male. And yes, these two are the two shared attributes with Erdogan, the demon of the decade.
-
-And that gives me a very specific role to play in life, making impossible to go beyond of it.
+I was born in Turkey. Indefensibly, I'm a Turkish male, just like the demon of the decade, Erdogan.
 
 Here is a real conversation I had:
 
@@ -24,7 +22,8 @@ Here is a real conversation I had:
 
 And it's only one of them.
 
-Somebody approaches during a party I'm invited to, and starts talking about Erdogan.
+Somebody approaches during a party I'm invited to, and starts talking about Erdogan. What if I'm not interested to talk about Erdogan? 
+Just like any person who reserves their energy for things other than politics in life?
 
 Two coworkers are having a heated argument about whether if it's ethical to read Zero to One, authored by Peter Thiel, who supported Trump. I tell that it's a good book, worth to read, to reduce the heat, and a dickhead jumps and tells "Adolf Hitler's book was the most popular book in Turkey for a while" as a response.
 
