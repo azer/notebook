@@ -34,7 +34,7 @@ This trend has been generating frustration for people who use desktop web browse
   * [Model 4. Delay](#model-4-delay)
 * [Historical Context](#historical-context)
 * [Status](#status)
-* [Feedback is love ❤️](#feedback-is-love-)
+* [Feedback is love ❤️](#feedback-is-love-%EF%B8%8F)
 
 # Product Focus
 
