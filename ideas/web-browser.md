@@ -73,7 +73,9 @@ Show user only what's relevant to their context by default, nothing else.
 
 An example use-case: user is shopping children books on Amazon. The dropdown tabbing menu listed by their relevancy to the book.
 
-![](https://raw.githubusercontent.com/azer/fathomecat/main/screencasts/tabbing%20view%20-%20amazon.png)
+| Chrome | This Project | 
+| --- | --- |
+| ![](https://github.com/azer/fathomecat/blob/main/screencasts/chrome%20-%20comparable%20view.png?raw=true) | ![](https://raw.githubusercontent.com/azer/fathomecat/main/screencasts/tabbing%20view%20-%20amazon.png) |
 
 Check out [See it in action](#see-it-in-action) for a video.
 
