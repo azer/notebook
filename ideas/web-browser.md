@@ -2,7 +2,7 @@
 
 The major web browsers have achieved great improvements on their **platform problems**, while delegating all the **product problems** to third party extensions. This strategy scaled somewhat well for the last two decades, but now we're seeing the limitations; security is increasingly becoming a priority over innovation driven by browser extensions.
 
-This trend has been generating frustration for people who use desktop web browsers as their main interface to access information, communicate, be productive. I believe there is an opportunity for **a new web browser specifically tailored for power users**,  which prioritizes **product problems** over platform problems, comes with **opinionated defaults** and **builtin features** for helping power users to utilize their web browser for more productivity, security, privacy, and gradually search.
+This trend has been generating frustration for people who use desktop web browsers as their main interface to access information, communicate, be productive. I believe there is an opportunity for **a new web browser specifically tailored for power users**,  which prioritizes **product problems** over platform problems, comes with **opinionated defaults** and **builtin features** for helping power users to utilize their web browser for better productivity, security, privacy, and gradually search.
 
 **Index of contents:**
 
@@ -16,7 +16,7 @@ This trend has been generating frustration for people who use desktop web browse
   * [The Terrible Idea](#the-terrible-idea)
   * [The Bloody Market](#the-bloody-market)
   * [The Fragile Giant](#the-fragile-giant)
-  * [The Opportunity Market](#the-opportunity)
+  * [The Opportunity](#the-opportunity)
 * [Strategy](#strategy)
   * [Previous Strategy (Failure)](#previous-strategy-failure)
   * [Next Strategy](#next-strategy)
