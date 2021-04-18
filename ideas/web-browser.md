@@ -34,6 +34,7 @@ This trend has been generating frustration for people who use desktop web browse
   * [Model 4. Delay](#model-4-delay)
 * [Historical Context](#historical-context)
 * [Status](#status)
+* [Feedback is love ❤️](#feedback-is-love-)
 
 # Product Focus
 
@@ -284,3 +285,8 @@ Historically, following attemps got me unique learnings about the challenges and
 
 * An early proof of concept of this browser [is available in Github](https://github.com/kaktus/kaktus).
 * This early proof gained traction among developers with no marketing efforts. See [Strategy](#strategy) for details.
+
+# Feedback is love ❤️
+
+* You can help me by sharing your feedback.
+* [Feedback form ⛳](https://6h6z9t0tz4e.typeform.com/to/vo8tNOyp)
