@@ -1,5 +1,7 @@
 # Surviving Fairly
 
+Nov 16, 2018
+
 one day I gave two kids some small gifts because I liked them. their auntie saw us and invited to have tea. we met the whole family, had tea. I'm talking about may be 50 cups of tea. we don't even speak the same language but we tell eachother stories, we are connected.
 
 We were in Alaska 1.5 year ago, knocked a random door in a native village, ended up meeting all the family, had lunch together, listened their stories, learnt a lot of stuff about how Mentasta indians dealt colonialist occupation; probably the biggest robbery in the world history. .
