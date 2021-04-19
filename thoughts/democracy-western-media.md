@@ -1,5 +1,7 @@
 # democracy and western media
 
+Nov 16, 2018
+
 *This was a response to a thread where I responded to a European friend claiming how Europe has a lot of freedoms and how bad Turkey is for jailing journalists*
 
 West is where Neo nazis can march, sometimes set mosques, homes, refugee camps on fire and that's exactly the freedom west has been so proud of. The measurement of western democracy is not the freedom of minorities being oppressed, such as muslims. Just recently Germany shut down a Muslim media group for radicalizing people, raiding their homes, offices. Turkish people in Germany and Netherlands were not let to gather for election meetings, Dutch newspapers' response to the cops beating up Turkish citizens peacefully gathered on the street was to fill their papers with big puntos telling Turkish immigrants to go back to Turkey. Tolerance and democracy is not measured with how you tolerate the fascists in your country. Tolerance and democracy are measured by how you treat minorities, immigrants.
