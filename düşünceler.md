@@ -169,6 +169,17 @@ Tabii dağın başında, Türkgözü sınır kapısındayız. Biraz yürüyüp e
 
 Şimdi de İran sınırında, Doğubeyazıt'ta bir çay ocağında oturuyoruz. Beşiktaş'ın maçı varmış. Bir iki el tavla oynar herhalde otele gideriz. Gene de ne olacağı belli olmaz, iki adım öteye yola çıkıyorsun, iki adım daha gidivereyim derken, yol gittiğin yönün tersine kadar uzayıveriyor.
 
+## Demokrasi
+
+2017
+
+Bugün demokrasi fikrine kuşkuyla yaklaşırsak belki bir dünya küfür yeriz ama zamanında Sokrates demokrasiye ilk karşı çıkanlardanmış. Karşı argümanı da şu; açık denizde fırtınaya yaklaşan bir geminin dümeninin nereye çevrileceğini o konudaki deneyimli mürettebat mı belirlemeli, yoksa oy birliğiyle karar mı verilmeli ? çoğunluk dümeni fırtınaya çevirmeyi oylarsa mürettebat herkesin öleceğini bile bile verilen kararı harfiyen uygulamalı mı ?
+
+Sokrates'in bir diğer eleştirisi seçim sistemine. Şu örneği veriyor; iki adaylı bir seçim düşünün; bir aday şeker dükkanı sahibine ve diğer aday ise doktor gibi. Doktor olan aday toplumu iyileştirmek istiyor ama diğer aday, şeker dükkanı sahibini rolünü üstlenen, halkın zevklerine yönelik vaatler dağıtarak kolayca doktor rolündeki adaya üstünlük sağlıyor.  
+
+Şimdi beni düşündüren şey şu; mükemmel olmadığı başından itibaren belli olan bir fikri nasıl oldu da değiştirmesi tartışması imkansız bir kutsal kitap haline getirdik ? Ayrıca, doğu medeniyetleri batı gibi, kendi yönetim biçimi tercihlerini bütün dünyaya kusursuz, mükemmel, tartışılamaz algısıyla dayatsa, batılıların tepkisi ne olurdu?
+
+
 ## Devrimci Girişimcilik
 
 24.10.2016
