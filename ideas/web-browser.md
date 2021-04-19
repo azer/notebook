@@ -17,6 +17,7 @@ This trend has been generating frustration for people who use desktop web browse
   * [The Bloody Market](#the-bloody-market)
   * [The Fragile Giant](#the-fragile-giant)
   * [The Opportunity](#the-opportunity)
+  * [The Audience](#the-audience)
 * [Strategy](#strategy)
   * [Previous Strategy (Failure)](#previous-strategy-failure)
   * [Next Strategy](#next-strategy)
@@ -172,7 +173,15 @@ While Google has been enjoying its huge success in such a way discouraging anybo
 * This leaves room for a new web browser **creating its own category** with fresh perspective, being **great for a specific audience**, instead of **generic & mediocre for all**.
 * The **late mover advantage** is to build a web browser that concentrates its resources into the product itself, rather than what major web browser did: rendering engines.
 * Being specific will allow us to **undo high-level, decades old product decisions**, remove **unconscious frictions** and offer better ones.
-* Dominating a specific audience in the web browser market will also open the gate to other opportunities, such as expanding on the search direction. See [Strategy](#strategy) for more info.
+* Dominating a specific audience in the web browser market will also open the gate to other opportunities, such as expanding on the search direction. 
+
+## The Audience
+
+* During my user research, **startup founders**, and **senior software engineers** favored "yes" answer for the question **would you pay for this web browser?**
+* In my direct conversations, I increasingly heard people from this audience *proactively* telling me **I'd pay for a better web browser**
+* 
+
+* See [Strategy](#strategy) for more info.
 
 # Strategy
 
