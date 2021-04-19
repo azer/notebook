@@ -1,5 +1,7 @@
 ## Isparta'dan Doğubeyazıt'a...
 
+2017
+
 Hayat sen plan yaparken başına gelenlerdir diye boşuna dememişler.
 
 Isparta'da bir gün otururken dedemi görmeye Fethiye'ye yola çıktık sırt çantamıza üç tane tişört bir iki çorap atarak. Fethiye'de birden bastıran can sıkıntısıyla, Ankara'ya, oradan trenle Kars'a geldik. Ve bu sabah Kars - Tiflis otobüsüne binip Gürcistan'a doğru yola çıktık. Amacımız hem Nova biten vizesini yenilesin, hem de Kars'a kadar gelmişken, Gürcistan'ı da görmeden gitmeyelim. .
