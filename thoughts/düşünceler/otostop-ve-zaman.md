@@ -1,5 +1,7 @@
 # otostop ve zaman
 
+2016
+
 6 saatlik El Hosima - Fez mesafesi, dağ yolundan otostopla üç gün sürdü. Bazı köylerde günboyu saatlerce beklediğimiz oldu, genellikle yol kenarında karşılaştığımız çocuklarla arapça pratik yaparak, varsa top oynayarak, yoksa yanımızdaki bisiklet hoparlöründen rap dinleyerek zaman geçirdik.
 
 İnsanlar epey arkadaş canlısıydı, mesela yaklaşık 6-7 saat araç beklediğimiz bir dağ köyünde, köylüler yol kenarında bir ağacın altına halı serip bizimle birlikte öğle yemeği yedi :)
