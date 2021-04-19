@@ -2,7 +2,7 @@
 
 The major web browsers have achieved great improvements on their **platform problems**, while delegating all the **product problems** to third party extensions. This strategy scaled somewhat well for the last two decades, but now we're seeing the limitations; security is increasingly becoming a priority over innovation driven by browser extensions.
 
-This trend has been generating frustration for people who use desktop web browsers as their main interface to access information, communicate, be productive. I believe there is an opportunity for **a new web browser specifically tailored for power users**,  which prioritizes **product problems** over platform problems, comes with **opinionated defaults** and **builtin features** for helping power users to utilize their web browser for better productivity, security, privacy, and gradually search.
+This trend has been generating frustration for people who use desktop web browsers as their main interface to access information, communicate, be productive. I believe there is an opportunity for **a new web browser specifically tailored for top performers**,  which prioritizes **product problems** over platform problems, comes with **opinionated defaults** and **builtin features** for helping power users to utilize their web browser for better productivity, security, privacy, and gradually search.
 
 **Index of contents:**
 
@@ -183,7 +183,7 @@ While Google has been enjoying its huge success in such a way discouraging anybo
 * Following user groups favored "yes" answer for the question **would you pay for this web browser?**
   * **startup founders** with technical background
   * **senior software engineers** 
-  * **makers**
+  * **top performers**
 * **User acquisition** in this audience is really straightforward, as they're **proactively seeking** alternatives.
 * A **confirmation** is how the prototype of this project [reached over 400 stars](https://github.com/fathomecat/fathomecat) with zero marketing efforts (not even a link-share in social media).
 * In my **direct conversations**, I increasingly heard people from this audience *proactively* telling me **I'd pay for a better web browser**
