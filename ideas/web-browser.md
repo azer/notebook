@@ -177,9 +177,14 @@ While Google has been enjoying its huge success in such a way discouraging anybo
 
 ## The Audience
 
-* During my user research, **startup founders**, and **senior software engineers** favored "yes" answer for the question **would you pay for this web browser?**
-* In my direct conversations, I increasingly heard people from this audience *proactively* telling me **I'd pay for a better web browser**
-* See [Strategy](#strategy) for more info.
+* Sources to identify: 
+  * User research executed in 2021
+  * YC Hackathon 
+* Following user groups favored "yes" answer for the question **would you pay for this web browser?**
+  * **startup founders** with technical background
+  * **senior software engineers** 
+  * **makers**
+* In my **direct conversations**, I increasingly heard people from this audience *proactively* telling me **I'd pay for a better web browser**
 
 # Strategy
 
