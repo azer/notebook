@@ -20,6 +20,8 @@ In other words, I want to build an independent, fair-trade farming platform that
 
 ## Thinking process
 
+(2016)
+
 Philosophers until now have only interpreted the world in various ways.
 
 The point, however, is to change it.
