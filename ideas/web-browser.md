@@ -179,8 +179,6 @@ While Google has been enjoying its huge success in such a way discouraging anybo
 
 * During my user research, **startup founders**, and **senior software engineers** favored "yes" answer for the question **would you pay for this web browser?**
 * In my direct conversations, I increasingly heard people from this audience *proactively* telling me **I'd pay for a better web browser**
-* 
-
 * See [Strategy](#strategy) for more info.
 
 # Strategy
