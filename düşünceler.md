@@ -168,3 +168,49 @@ Sınır kapısında polisler sağolsun Nova'yı ülkeden çıkış yaptırmadı.
 Tabii dağın başında, Türkgözü sınır kapısındayız. Biraz yürüyüp el ettik, Gürcistan'a benzin almaya giden bir yöre insanı hemen aldı bizi, köye kadar götürdü. Oradan bir kamyon geçiyordu, kasasında birkaç saatlik yolculuktan sonra Iğdır otobüsüne, oradan da Doğubeyazıt'a geldik..
 
 Şimdi de İran sınırında, Doğubeyazıt'ta bir çay ocağında oturuyoruz. Beşiktaş'ın maçı varmış. Bir iki el tavla oynar herhalde otele gideriz. Gene de ne olacağı belli olmaz, iki adım öteye yola çıkıyorsun, iki adım daha gidivereyim derken, yol gittiğin yönün tersine kadar uzayıveriyor.
+
+## Devrimci Girişimcilik
+
+24.10.2016
+
+Aylar önce Mountain View'a bir iş görüşmesi için gittiğimde geçirdiğim üç saate acımıştım. Kendini Google'ın ve Facebook'un en önemli eski mühendisleri sayan iki tuhaf adam, "kaç para istiyorsan söyle, hiç vakit kaybetmeden gel işe başla" diyordu. 10 yıl önce olsaydı heyecanlanır, gururum okşanırdı. Ama 6 ay önce o gün taksiye ödediğim paraya ve zamana acımıştım. Uyuşturucu etkisindeymiş gibi tuhaf, sapıkça iş enerjileri vardı karşımdaki adamların. "IPO'ya hazırlanıyoruz, bir yıl sonra zenginsin" dedikleri sıra içimde miğde bulantısı uyandıran hisler oluşmaya başlamıştı bile.
+
+O binadan kendimi dışarı attığımda oksijenin tadı ayrı bir güzeldi sanki. 5 yıl önce Türkiye'den gelip yerleştiğim Oakland'a dönünce o akşam üzeri, kendimi karantinaya alınmış güvenli bir bölgede gibi hissetmiştim. Para hırsından deliye dönmüş kalabalık neyse ki Oakland'ı henüz işgal etmemişti.
+
+Sözün hasılı, bir bütün olarak startup ve girişimcilik kültürünü çalışma saatleri dışında hayatımdan uzak tutuyorum. Bu kültürün ortasında yaşasam da, kendimi
+ tüketici, mühendis, girişimci gibi kelimelerle tanımlamıyorum. 28 yaşındayım, tıpkı 10 yıl önceki gibi, bugün hala kendimi devrimci olarak tanımlıyorum. 
+
+Hem ABD'de yaşayıp, hem startup'lardan ekmek yeyip, hem de kendini devrimci olarak tanımlamak kendi içimde yıllardır içinde bulunduğum bir iç çatışma, ve bu durum belki de bugün hala kendi kendimle barış halinde olabilmemin tek sebebi; dünyaya devrimci pencereden bakıyorum. Arkadaşlarımdan aşık olduğum kadına, 
+
+mümkün olduğunca uzak kalmaya çalışıyorum hakkında yazıları okuyunca, birkaç yıl önce tarımla ilgili startup yapmayı kafaya koyduğum dönem aklıma geldi.
+
+düşündüğüm fikir, çiftçiler için sosyal bir pazar platformu oluşturmaktı. yani amacım istanbul'da sebze pazarına gitmekten aciz elitlerin kapısına sağlıklı gıda girmesi değil, tam tersine, onların parçası oldukları tüketim kültürünün çiftçiyi sömürmeye dayalı sistemini kökünden sarsmaktı. bankadaki birikimimi bi kamyonete yatırıp, insanların doğrudan çiftçiden alışveriş yapabileceği bi site kurmayı tasarlıyodum. bence bütün dünyada esas çözülmesi gereken en acil sorun çiftçilerin hakkını hukukunun yenmesidir. çiftçilik komisyoncu mafyasından özgürleştirilmeli, çiftçi kendi ürününü istediği pazarlara kendi belirledi fiyattan ulaştırabilmelidir. 
+
+fakat dünyanın gittiği yön tam tersi. çiftçilik ne kadar merkezileştirilirse, pahalı organik tarımı ortaya çıkaran neden zaten corporate çiftçiliği. bin yıllardır organik tarım yapan çiftçi halkı ışık girmeyen tekstil atölyelerine maden ocaklarına mahkum edip, çoluk çocuklarına apaçi çomar diye hakaret edip kapısına organik tarım ürünleri bekleyen tüketici kitlesi sadece büyük şehirlerde var. 
+
+girişimcilik: orta sınıfın konforuna katkıda bulunmak, gündelik hayattaki pürüzleri kar getirecek, büyüme sağlayacak yöntemlerle ortadan kaldırarak kar elde etmeyi amaçlamak.
+
+devrimcilik: işçi ve köylü sınıfının hayatını, sosyal adaleti iyileştirmek için, irrasyonel güdülerle kısa zamanda köklü değişimler amaçlamak.
+
+## Buzulcu
+
+03.08.2016
+
+bazen düşünüyorum, gözümün önünden film gibi görüntüler geçiyor. 
+
+mesela alaska'da matanuşka buzullarını özel mülkiyeti gibi, devletten bedavaya satın alıp giriş çıkışı paralı yapan adama "buzulu nasıl mülkiyetine aldın?" dediğimde "çok çalışarak" yanıtını vermesi. 
+
+Bir insan buzul için nasıl çok çalışabilir ? Küresel ısınmayı mı durdurmaya çalıştın mübarek ? İşin gerçeği ise şu; ABD 1980'lerde eskimo ve kızıl derililere "sizin bölgeniz şurası" deyip ayırmış ve geri kalan bütün arazileri beyazlara ücretsiz dağıtmış. Petrol gelirlerinin yüzde onunu da bu işgal kolonisine tahsis etmiş. Birkaç akıllı da çıkıp koca buzulu özel mülküne yazdırmış. 
+
+Bunun üzerine, çalışma hayatında yüzlerce kez duyduğum "working hard" (çok çalışmak) sözleri aklıma geliyor. Eksiksiz her defasında büyük bir samimiyetsizlik hissetmiştim. Eğer ABD'de biri size çok çalışma sözünü vurgulayarak söylüyosa, bu demektir ki yolunacak kaz arıyor. Arkanızı kollamakta fayda var.
+
+Neden mi? Şöyle açıklayayım.
+
+Malcolm X okul çıkışı çalıştığı restorandan eve dönerken, kendisinden yaşça büyük bi beyaz kumar oynamayı teklif etmiş. Malcolm X tüm parasını kaybettikten sonra, kumar oynadığı beyazın aslında başka çömez siyahlarla da oynadığını ve istisnasız hep kazandığını öğrenmiş. Çünkü taktiği, oyunu iyi bilmeyenlerle oynayıp, hile yaparak hep kazanmakmış. 
+
+"Eğer bir adam kumarda hep kazanıyorsa, hile yaptığı kesindir" demiş Malcolm X. 
+
+Kapitalist düzendeki hile yapmanın (çalmanın, yağmalamanın) parolası "çok çalışmak" dır. 
+
+Dünyada varolmayan, sanal bir düzen kurup kendi para biriminizi diğerlerinden kat kat daha güçlü hale getirebilirsiniz mesela.
+
