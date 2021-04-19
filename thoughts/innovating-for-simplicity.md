@@ -1,5 +1,7 @@
 ## Innovating for Simplicity
 
+Nov 16, 2018
+
 I've been using an old classic Casio watch since when I was kid. First I had the plastic one, later I switched to the metalic color. Once I lost it in the airport, then I got the same model for only 30 Lira (About $7.5).
 This Casio watch is superior than most of the technology we got in these days. Why did I say this? Here are the reasons;
 
