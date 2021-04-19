@@ -1,5 +1,7 @@
 # Argument On Train
 
+25.08.2020
+
 Last sunday, I saw a young man shouting "Was?" (What? in German) to an old man sitting across on the train. The old man was asking him to wear mask, 
 in a respectful way, and he was responding him by just defying him, because he is young, and he can silence the old man by just shouting, by just demonstrating
 his physical advantages. 
