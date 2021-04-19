@@ -1,5 +1,7 @@
 ## Çocuğun Gücü
 
+April 2019
+
 Babamla Kış Uykusu filmi üzerine konuşuyorduk.
 İkimiz de bu filmi defalarca izledik.
 
