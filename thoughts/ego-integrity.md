@@ -1,5 +1,7 @@
 # Ego and Integrity
 
+Jan 30, 2020
+
 The word "Ego" is often used in group conversations to draw attentin to the potential beyond our individual abilities and interests. 
 However, the definition of ego is not explored much, and I have great doubts that if people even have a shared understanding of it while
 mentioning it in a conversation. We'd often denounce "too much" of ego, and on the other hand, also emphasize the need for "some" ego.
