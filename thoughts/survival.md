@@ -1,5 +1,8 @@
 # Survival
 
+ Nov 16, 2018
+
+
 The second highest mountain in Africa is called Toubkal, and is in Morocco. We went there last month and hiked to the summit in a bad stormy weather. It was my first time to see such a powerful wind that suddenly hits you and you find your body on the ground. As you get close, your foot gets quite close to the cliff sometimes, and all you can do is just wishing it's a lucky day.
 
 We met two Moroccan students on the way because we were the only 4 humans left in the whole mountain, and the nature never jokes when it catches you weak, it can beat you up to the death. We all felt getting close to the death and this made us be friends instantly. We literally walked holding eachothers hands, motivating eachother like we're wrestlers. One of the Moroccan guys were having issues with his health because of smoking, so stopped in the middle. Rest of us made to the peak, and didn't mind to eat the canned food left by someone else. Who cares about hygene when your body needs to fight for survival.
