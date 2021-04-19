@@ -1,5 +1,7 @@
 # Personalizing Knowledge
 
+2017
+
 Did you have a piggybank when you were kid ? I remember walking into a clothing store, holding my mom's hand. I bought some fancy clothes with my savings
 when I was 4 years old. At that age, I only needed one piggy bank for one purpose; money. As an adult today, I have a wallet and bank accounts,
 but now need piggy bank for other things; knowledge for example.
