@@ -184,6 +184,8 @@ While Google has been enjoying its huge success in such a way discouraging anybo
   * **startup founders** with technical background
   * **senior software engineers** 
   * **makers**
+* **User acquisition** in this audience is really straightforward, as they're **proactively seeking** alternatives.
+* A **confirmation** is how the prototype of this project [reached over 400 stars](https://github.com/fathomecat/fathomecat) with zero marketing efforts (not even a link-share in social media).
 * In my **direct conversations**, I increasingly heard people from this audience *proactively* telling me **I'd pay for a better web browser**
 
 # Strategy
