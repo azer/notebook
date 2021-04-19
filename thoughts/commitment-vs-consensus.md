@@ -1,5 +1,8 @@
 # Commitment vs Consensus
 
+Nov 16, 2018
+
+
 ### Commitment
 * empowers teams
 * helps teams help them focus on the problem
