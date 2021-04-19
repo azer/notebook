@@ -1,5 +1,7 @@
 # Religions and Dualism
 
+Sep 5, 2020
+
 Here is a little fun fact about me.
 
 In my Turkish ID, it says my religion is Islam. When I was in Oakland, I had a few visits to the Protestant church there and the Papa was nice enough to convert me to christianity with a nice little ceremony where I had water splash in my head on one ordinary afternoon. I wasn't really Christian but had to be one to marry my wife [Nova](https://novatogatorop.com) officially.
