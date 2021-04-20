@@ -44,7 +44,7 @@ Savaş bir kahvaltı masasında başladı
 Ve sonunda Bağdat’ta bir kız çocuğunu sakat bıraktı. 
 
 Savaş bir bilgisayar ekranında başladı
-Muhammet Christian’a kokain sattı. 
+Muhammet Berlin'de Christian’a kokain sattı. 
 
 Savaş bir kısa tren yolculuğunda başladı
 Bir bebek cesedi Bodrum sahilinde bulundu. 
