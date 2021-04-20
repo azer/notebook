@@ -2,8 +2,9 @@
 
 ```
 Savaş başladı. 
-İlk kurşunu Manhattan’da atıldı.
-İki aylık hamileydi Megan, hiç düşünmeden çekti tetiği.
+İlk kurşun Manhattan’da atıldı.
+İki aylık hamileydi Megan, 
+hiç düşünmeden vermişti o kararını.
 
 Savaş New York’ta başladı.
 Tren raylarında, 
