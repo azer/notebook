@@ -4,7 +4,7 @@
 Savaş başladı. 
 İlk kurşun Manhattan’da atıldı.
 İki aylık hamileydi Megan, 
-hiç düşünmeden vermişti o kararını.
+hiç düşünmeden verdi kararını.
 
 Savaş New York’ta başladı.
 Tren raylarında, 
