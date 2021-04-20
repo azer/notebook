@@ -40,17 +40,17 @@ Megan öğle yemeğini masa başında yaptı
 Van o gece bir fırın açmayı tasarladı
 Hrant sokak ortasında kurşunlandı. 
 
-Savaş New York’ta başladı
+Savaş bir kahvaltı masasında başladı
 Ve sonunda Bağdat’ta bir kız çocuğunu sakat bıraktı. 
 
-Savaş New York’ta başladı
+Savaş bir bilgisayar ekranında başladı
 Muhammet Christian’a kokain sattı. 
 
-Savaş New York’ta başladı
+Savaş bir kısa tren yolculuğunda başladı
 Bir bebek cesedi Bodrum sahilinde bulundu. 
 
-Savaş New York’ta başladı.
+Savaş üretkenliğin tapınaklarında başladı
 Aynı yıl iflas etti Megan'ın ajansı
-Van sonunda yeni bir ev aldı ve
+Van diyet yapmaya başladı ve
 Muhammed en yakın arkadaşını bıçakladı. 
 ```
