@@ -1,6 +1,6 @@
 # savaş new york'ta başladı
 
-'''
+```
 Savaş başladı. 
 İlk kurşunu Manhattan’da atıldı.
 İki aylık hamileydi Megan, hiç düşünmeden çekti tetiği.
@@ -46,6 +46,8 @@ Muhammet Christian’a kokain sattı.
 Savaş New York’ta başladı
 Bir bebek cesedi Bodrum sahilinde bulundu. 
 
-Savaş New York’ta başladı. 
-Çok görüldü Hrant’a biricik canı. 
-'''
+Savaş New York’ta başladı.
+Aynı yıl iflas etti Megan'ın ajansı
+Van sonunda yeni bir ev aldı ve
+Muhammed en yakın arkadaşını bıçakladı. 
+```
