@@ -4,14 +4,12 @@
 Savaş başladı. 
 İlk kurşun Manhattan’da atıldı.
 İki aylık hamileydi Megan, 
-hiç düşünmeden verdi kararını.
+Hiç düşünmeden verdi kararını.
 
 Savaş New York’ta başladı.
 Tren raylarında, 
-telefon hatlarında, 
-uzakların yıldızlıklarında, 
-uzakların uçsuz bucaksızlığında,
-uzakların okyanuslarında dört nala
+Telefon hatlarında, 
+Yırtılan mektup zarflarında
 Amsterdam’a sıçradı. 
 
 Bir adam bisikletinden indi.
