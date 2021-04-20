@@ -27,7 +27,7 @@ Manhattan’da çıkan savaş
 Tabanı delik bir ayakkabıya sızdı.
 
 Bir kış günü
-Babam televizyonda yerde yatan bir babayı gördü.
+Babam televizyonda yerde yatan bir başka babayı gördü.
 
 Bir kış günü
 Babam mutfakta sessizce ağladı.
