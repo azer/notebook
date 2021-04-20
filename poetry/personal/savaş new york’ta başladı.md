@@ -53,4 +53,7 @@ Savaş üretkenliğin tapınaklarında başladı
 Aynı yıl iflas etti Megan'ın ajansı
 Van diyet yapmaya başladı ve
 Muhammed en yakın arkadaşını bıçakladı. 
+
+Savaş dalından kopan bir elma ile başladı
+Megan çıplaklığından utandığı bir rüyadan uyandı.
 ```
