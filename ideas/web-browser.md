@@ -2,7 +2,7 @@
 
 **The browser wars ended**. 
 
-After two decades of platform-intensive competition, the winner of the war, Chrome, shifted its their strategy prioritize **security over product innovation**. This makes sense, Chrome wants to **dominate the whole internet**; and as it gets more successful on this, the cost of maintaining an extension marketplace **multiples**, while the percentage of users demands extensions **shrinks**. The party is over. And it’ll stay as it is, elaborated more in the [Market](#market) chapter of this document.
+After two decades of platform-intensive competition, the winner of the war, Chrome, shifted its their strategy prioritize **security over product innovation**. This makes sense, Chrome wants to **dominate the whole internet**; and as it gets more successful on this, the cost of maintaining an extension marketplace **multiples**, in contrast to the percentage of users using the marketplace **shrink**. The party is over. And it’ll stay as it is, elaborated more in the [Market](#market) chapter of this document.
 
 This trend is generating frustration for a particular audience: power users; people who access information, tools for communication and productivity using web browsers on daily basis. Their **work** happens inside the web browser, and it’s important to **utilize** their web browser in ways it makes them more efficient, more focused, less distracted. This user group chooses the best tools that gets them top productivity in general, and the major web browsers target too broad to satisfy them.
 
