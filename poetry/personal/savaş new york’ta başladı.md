@@ -44,8 +44,8 @@ Ve sonunda Bağdat’ta bir kız çocuğunu sakat bıraktı.
 Savaş bir bilgisayar ekranında başladı
 Muhammet Berlin'de Christian’a kokain sattı. 
 
-Savaş bir kısa tren yolculuğunda başladı
-Bir bebek cesedi Bodrum sahilinde bulundu. 
+Savaş kalabalık bir tren yolculuğuyla başladı
+Bodrum sahiline bebek cesedi vurdu. 
 
 Savaş üretkenliğin tapınaklarında başladı
 Aynı yıl iflas etti Megan'ın ajansı
