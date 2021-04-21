@@ -4,8 +4,9 @@
 
 After two decades of platform-intensive competition, the winner of the war, Chrome, shifted its their strategy prioritize **security over product innovation**. This makes sense, Chrome wants to **dominate the whole internet**; and as it gets more successful on this, the cost of maintaining an extension marketplace multiples, while the percentage of users demands extensions shrinks. The party for extensions is over. And it’ll stay as it is, elaborated more in the market chapter of this document.
 
-A group of people feeling frustrated during this shift is, power users. The people who access information and use tools for communication and productivity mainly using web browsers. Their work happens inside the web browser, and it’s important to utilize their web browser, to remove all the frictions.
-This web browser project aims to be tailored particularly for this group of users; it aims to rethink web browser with opinionated defaults and builtin features, designed and built end-to-end for particularly for this user group by delegating all the platform complexity to existing browser backends, such as Chromium.
+This trend is generating frustration for a particular group of users: the people who access information, use tools for communication and productivity mainly using web browsers. Their work happens inside the web browser, and it’s important to utilize their web browser the best possible way. This user group chooses the best tools that gets them top productivity in general, and the major web browsers target too broad to make this user group happy.
+
+This web browser project aims to be tailored particularly for power users. It rethinks web browser from scratch, reconsiders decades old decisions that became "standard" almost (e.g tabbing), provides better opinionated defaults and builtin features. It's being designed and built end-to-end for particularly for providing power users more productive, secure and private web browsing experience.
 
 
 **Index of contents:**
