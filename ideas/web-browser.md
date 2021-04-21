@@ -1,8 +1,12 @@
 # Rethinking modern web browsers
 
-The major web browsers have achieved great improvements on their **platform problems**, while delegating all the **product problems** to third party extensions. This strategy scaled somewhat well for the last two decades, but now we're seeing the limitations; security is increasingly becoming a priority over innovation driven by browser extensions.
+**The browser wars ended**. 
 
-This trend has been generating frustration for people who use desktop web browsers as their main interface to access information, communicate, be productive. I believe there is an opportunity for **a new web browser specifically tailored for top performers**,  which prioritizes **product problems** over platform problems, comes with **opinionated defaults** and **builtin features** for helping power users to utilize their web browser for better productivity, security, privacy, and gradually search.
+After two decades of platform-intensive competition, the winner of the war, Chrome, shifted its their strategy prioritize **security over product innovation**. This makes sense, Chrome wants to **dominate the whole internet**; and as it gets more successful on this, the cost of maintaining an extension marketplace multiples, while the percentage of users demands extensions shrinks. The party for extensions is over. And it’ll stay as it is, elaborated more in the market chapter of this document.
+
+A group of people feeling frustrated during this shift is, power users. The people who access information and use tools for communication and productivity mainly using web browsers. Their work happens inside the web browser, and it’s important to utilize their web browser, to remove all the frictions.
+This web browser project aims to be tailored particularly for this group of users; it aims to rethink web browser with opinionated defaults and builtin features, designed and built end-to-end for particularly for this user group by delegating all the platform complexity to existing browser backends, such as Chromium.
+
 
 **Index of contents:**
 
