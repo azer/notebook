@@ -85,6 +85,27 @@ An example use-case: user is shopping children books on Amazon. The dropdown tab
 
 Check out [See it in action](#see-it-in-action) for a video.
 
+### Commands
+
+The dropdown shell makes it possible to offer users not just searching the tabs but actually anything. For instance, if user enters "weather", she could be suggested to open weather.com, and also be simply provided weather.
+
+Here are some other command ideas:
+
+* calculator
+* dictionary (define)
+* pronounce
+* timezone math
+* what's my ip
+* conversions
+
+### Note taking
+
+User could just enter normal text in the query bar and as soon as the word count passes X, the view could be changed into note taking.
+
+### Password Management
+
+Password management can be achived with no storage by choosing a secret key, similar to how Bitcoin works. A web browser could have been built on top of this foundation.
+
 ## Security
 
 Web browsers delegate even the simpliest search functionalities to default search engines, as a part of their business model. This creates a giant security hole in the middle of two perfectly secure products:
@@ -173,7 +194,7 @@ While Google has been enjoying its huge success in such a way discouraging anybo
 ## The Opportunity
 
 * **The browser wars** ended. Google won it with its pragmatism. Microsoft and Mozilla lost.
-* Microsoft now uses Blink, Google's fork of Apple's Webkit. Brave uses Chromium. 
+* Microsoft now uses Blink, Google's fork of Apple's Webkit. Brave uses Chromium.
 * All major desktop web browsers also have somewhat similar architectures and interfaces; their objective is to be generic, not specific.
 * This leaves room for a new web browser **creating its own category** with fresh perspective, being **great for a specific audience**, instead of **generic & mediocre for all**.
 * The **late mover advantage** is to build a web browser that concentrates its resources into the product itself, rather than what major web browser did: rendering engines.
@@ -209,7 +230,7 @@ That was a mistake and quickly led me to failure for the following reasons;
 
 * Get into the market as a web browser for power users, promoting its new design.
 * Build a private beta group with early adapters who are in alignment with the product vision.
-* Build a great initial product. See the [Product Focus](#product-focus) for the scope. 
+* Build a great initial product. See the [Product Focus](#product-focus) for the scope.
 * Reach 1000 customers who love the product.
 * Reach 1000 customers who would be highly disappointed without it.
 
