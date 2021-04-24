@@ -106,6 +106,8 @@ User could just enter normal text in the query bar and as soon as the word count
 
 Password management can be achived with no storage by choosing a secret key, similar to how Bitcoin works. A web browser could have been built on top of this foundation.
 
+- Inspiration: [Lesspass](https://lesspass.com)
+
 ## Security
 
 Web browsers delegate even the simpliest search functionalities to default search engines, as a part of their business model. This creates a giant security hole in the middle of two perfectly secure products:
