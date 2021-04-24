@@ -1,5 +1,9 @@
 # Shopping
 
+## Vinyl
+
+* [Best vinyl shops](https://thevinylfactory.com/features/a-definitive-guide-to-berlins-best-record-shops/)
+
 ## Online Marketplaces
 
 * Ebay Kleinanzeigen
