@@ -1,6 +1,6 @@
 # Rethinking modern web browsers
 
-**The browser wars ended**. 
+**The browser wars ended**.
 
 After two decades of platform-intensive competition, the winner of the war, Chrome, shifted its their strategy prioritize **security over product innovation**. This makes sense, Chrome wants to **dominate the whole internet**; and as it gets more successful on this, the cost of maintaining an extension marketplace **multiples**, in contrast to the percentage of users using the marketplace **shrink**. The party is over. And it’ll stay as it is, elaborated more in the [Market](#market) chapter of this document.
 
@@ -79,7 +79,7 @@ Show user only what's relevant to their context by default, nothing else.
 
 An example use-case: user is shopping children books on Amazon. The dropdown tabbing menu listed by their relevancy to the book.
 
-| Chrome | This Project | 
+| Chrome | This Project |
 | --- | --- |
 | ![](https://github.com/azer/fathomecat/blob/main/screencasts/chrome%20-%20comparable%20view.png?raw=true) | ![](https://raw.githubusercontent.com/azer/fathomecat/main/screencasts/tabbing%20view%20-%20amazon.png) |
 
@@ -89,8 +89,11 @@ Check out [See it in action](#see-it-in-action) for a video.
 
 The dropdown shell makes it possible to offer users not just searching the tabs but actually anything. For instance, if user enters "weather", she could be suggested to open weather.com, and also be simply provided weather.
 
-Here are some other command ideas:
+Commands in order:
 
+* search
+* open website
+* jump to tab
 * calculator
 * dictionary (define)
 * pronounce
@@ -152,6 +155,13 @@ In other words, a user entering "basecamp" will not be taken in to a page full o
 
 This will be done within the browser itself in the first stages of the company, and evolve into its own platform tackling more search problems in the future. See [Strategy](#strategy) section for more.
 
+Data sources:
+
+* [Alexa 1m Sites](http://s3.amazonaws.com/alexa-static/top-1m.csv.zip)
+* [Tranco List](https://tranco-list.eu/)
+* [Parsed Dmoz Data / Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OMV93V)
+* [Wikipedia](https://en.wikipedia.org/wiki/Category:Websites_by_topic)
+
 ## See it in action
 
 ![](https://github.com/azer/fathomecat/blob/main/screencasts/browsing-800.gif?raw=true)
@@ -201,16 +211,16 @@ While Google has been enjoying its huge success in such a way discouraging anybo
 * This leaves room for a new web browser **creating its own category** with fresh perspective, being **great for a specific audience**, instead of **generic & mediocre for all**.
 * The **late mover advantage** is to build a web browser that concentrates its resources into the product itself, rather than what major web browser did: rendering engines.
 * Being specific will allow us to **undo high-level, decades old product decisions**, remove **unconscious frictions** and offer better ones.
-* Dominating a specific audience in the web browser market will also open the gate to other opportunities, such as expanding on the search direction. 
+* Dominating a specific audience in the web browser market will also open the gate to other opportunities, such as expanding on the search direction.
 
 ## The Audience
 
-* Sources to identify: 
+* Sources to identify:
   * User research executed in 2021
-  * YC Hackathon 
+  * YC Hackathon
 * Following user groups favored "yes" answer for the question **would you pay for this web browser?**
   * **startup founders** with technical background
-  * **senior software engineers** 
+  * **senior software engineers**
   * **top performers**
 * **User acquisition** in this audience is really straightforward, as they're **proactively seeking** alternatives.
 * A **confirmation** is how the prototype of this project [reached over 400 stars](https://github.com/fathomecat/fathomecat) with zero marketing efforts (not even a link-share in social media).
