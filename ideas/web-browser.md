@@ -160,7 +160,11 @@ Data sources:
 * [Alexa 1m Sites](http://s3.amazonaws.com/alexa-static/top-1m.csv.zip)
 * [Tranco List](https://tranco-list.eu/)
 * [Parsed Dmoz Data / Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OMV93V)
-* [Wikipedia](https://en.wikipedia.org/wiki/Category:Websites_by_topic)
+* Wikipedia
+  * [Websites by topic](https://en.wikipedia.org/wiki/Category:Websites_by_topic)
+  * [Application Software](https://en.wikipedia.org/wiki/Category:Application_software)
+   * [Online services](https://en.wikipedia.org/wiki/Category:Online_services)
+* [g2](https://g2.com/products/coursera)
 
 ## See it in action
 
