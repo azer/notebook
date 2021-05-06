@@ -1,11 +1,18 @@
 # photography
 
+* Photographers
 * [Editing](#editing)
   * [How to remove lens dirt?](#how-to-remove-lens-dirt-)
   * [How to do area specific adjustments?](#ow-to-do-area-specific-color-corrections-in-lightroom-)
   * [What should be fixed in a regular shot?](#what-should-be-fixed-in-a-regular-shot-)
 * [Ethics](#ethics)
 * [My Gear](#my-gear)
+
+
+## Photographers
+
+* [William Eggleston](https://www.metmuseum.org/exhibitions/objects?exhibitionId=%7B6ca8d7bb-2b70-4373-9833-5927c4a0b47d%7D#!?page=0&offset=20&perPage=20)
+* [Martha Cooper](https://www.huckmag.com/art-and-culture/photography-2/martha-cooper/)
 
 ## Editing
 
