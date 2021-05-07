@@ -36,6 +36,7 @@
 * **tekebbür** Kibirlenme, büyüklenme, çalım, kurum.
 * **terennüm** Güzel ve alçak sesle şarkı söyleme, anlatma, ifade etme
 * **Temayüz**  Başkalarına göre üstün duruma gelme, sivrilme, seçkinleşme.
+* **teşrifat** isim Resmî günlerde ve toplantılarda devlet büyüklerinin makam ve mevki sıralarına göre kabulü.
 * **Tevekkül** Herhangi bir işte elinden geleni yapıp daha sonrasını Allah'a bırakma: 
 * **Tevessül** Başlama, girişme.
 * **Teveccüh** Bir yana doğru yönelme, yüzünü çevirme
