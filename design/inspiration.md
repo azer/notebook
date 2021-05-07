@@ -17,6 +17,7 @@
 
 ## Websites:
 
+* [beta.flim.ai](https://beta.flim.ai/)
 * [Spotify Design](https://spotify.design/)
 * [State of Design](https://www.abstract.design/state-of-design)
 * [Tobias Ahlin](https://tobiasahlin.com/)
