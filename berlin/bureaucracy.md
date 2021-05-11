@@ -16,6 +16,7 @@ Or [get a  Bürgeramt appointment](https://service.berlin.de/dienstleistung/1206
 * [General Information](https://www.international.hu-berlin.de/en/wissenschaftler/international-scholar-services/living-and-working-in-berlin/drivers-licence/drivers-licence)
 * [Appointment for converting non-EU license to German](https://service.berlin.de/dienstleistung/121598/)
 * [First aid course and eye test in English](https://www.english-driving-school.de/)
+* [Driving licenses and commercial motor transport](https://www.berlin.de/labo/mobilitaet/fahrerlaubnisse-personen-und-gueterbefoerderung/)
 
 
 ## Language / Translation
