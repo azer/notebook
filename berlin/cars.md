@@ -15,3 +15,8 @@
 
 * [DEKRA](https://www.dekra.de) = 100€
 * TUV = 75€
+
+## Insurance
+
+* [huk24.de](https://huk24.de)
+* [check24.de](https://check24.de)
