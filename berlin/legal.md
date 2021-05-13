@@ -13,3 +13,7 @@
   * +49 170 2614830
   * stefania.findik@picastconsulting.de
 * [İnal](https://www.kanzlei-inal.de/)
+
+## Discussions
+
+* [Ask HN: Germans, how to work legally remote?](https://news.ycombinator.com/item?id=20606137)
