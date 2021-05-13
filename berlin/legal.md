@@ -12,3 +12,4 @@
 * [Stefanie Fındık - Picast Consulting](https://www.facebook.com/picastconsulting/)
   * +49 170 2614830
   * stefania.findik@picastconsulting.de
+* [İnal](https://www.kanzlei-inal.de/)
