@@ -6,6 +6,7 @@
 
 * [Autoscout](https://www.autoscout24.com/)
 * [Mobile.de](https://mobile.de)
+* [pkw.de: price ranges per model](https://pkw.de)
 
 # Tax
 
