@@ -11,3 +11,8 @@
 ## Go
 
 * [Playground for Generics](https://go2goplay.golang.org)
+
+
+## Tutorial
+
+* [Tiny Desktop Apps With Tauri And Vue.js](https://www.smashingmagazine.com/2020/07/tiny-desktop-apps-tauri-vuejs/)
