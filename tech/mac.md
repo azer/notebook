@@ -6,7 +6,9 @@
 * Minimize: `Cmd-Opt-M`
 * Switch between apps: `Cmd-tab` (hold option if window is minimized)
 * Switch between desktops: `Ctrl+left` / `Ctrl+right`
+* Hide current window: `Command + H`
 * Hide all other windows: `Command + Option + H`
+* Lock screen: `Control + Cmd + Q`
 
 ## Tiling
 
