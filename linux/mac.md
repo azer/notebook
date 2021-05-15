@@ -2,10 +2,11 @@
 
 ## Shortcuts
 
-* Toggle Fullscreen: Cmd-Ctrl-F
-* Minimize: Cmd-Opt-M
-* Switch between apps: Cmd-tab (hold option if window is minimized)
-* Switch between desktops: Ctrl+left / right
+* Toggle Fullscreen: `Cmd-Ctrl-F`
+* Minimize: `Cmd-Opt-M`
+* Switch between apps: `Cmd-tab` (hold option if window is minimized)
+* Switch between desktops: `Ctrl+left` / `Ctrl+right`
+* Hide all other windows: `Command + Option + H`
 
 ## Tiling
 
