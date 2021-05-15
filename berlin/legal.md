@@ -17,3 +17,8 @@
 ## Discussions
 
 * [Ask HN: Germans, how to work legally remote?](https://news.ycombinator.com/item?id=20606137)
+
+## Translation
+
+* Barbaros Kaman
+  * 0170 908 1571
