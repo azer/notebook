@@ -20,6 +20,10 @@ List of the purposes I'd like to use the time I have for. It gives me a holistic
 		* Bağlama
 		* Guitar
 		* Parenting
+		* Public speaking
+		* Writing
+		* Negotiation
+		* Drawing
 * Self-care
 	* Running
 	* Yoga
