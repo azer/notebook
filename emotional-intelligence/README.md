@@ -23,6 +23,11 @@ From [Therapy](./therapy.md)
 * People we love will pass away
 * We'll fall ill and eventually die ourselves.
 
+From [Solace](./solace.md)
+
+* It takes a great deal of bravery and skill to keep even a very ordinary life going.
+
 #### Sources
 
 * [The School of Life - Alain de Botton](https://www.goodreads.com/en/book/show/43264830)
+* Personal coaching sessions.

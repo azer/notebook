@@ -1,0 +1,9 @@
+## Solace
+
+* We can imagine ourselves as a series of concentric circles. On the outside lie all the more obvious things about us: what we do for a living, our age, education, tastes in food, and broad social background. We can usually find plenty of people who recognize us at this level. But deeper in are the circles that contain our more intimate selves, involving feelings about parents, secret fears, daydreams, ambitions that might never be realized, the stranger recesses of our sexual imagination, and all that we find beautiful and moving.
+* Though we may long to share the inner circles, too often we seem able only to hover with others around the outer ones, returning home from yet another social gathering with the most sincere parts of us aching for recognition and companionship.
+* Traditionally, religion provided an ideal explanation for and solution to this painful loneliness. The human soul, religious people would say, is made by God and so only God can know its deepest secrets. We are never truly alone, because God is always with us.
+* What replaced religion in our imaginations, as we have seen, is the cult of human-to-human love we now know as Romanticism, which bequeathed to us the beautiful but reckless idea that loneliness might be capable of being vanquished, if we are fortunate and determined enough to meet the one exalted being known as our soulmate; someone who will understand everything deep and strange about us, who will see us completely and be enchanted by our totality.
+* A relationship may be good enough even while it has its very dark moments.
+* Similarly, a good-enough job will be very boring at points; it won’t perfectly utilize all our merits or pay a fortune. But we may make some real friends, have times of genuine excitement, and finish many days tired but with a sense of true accomplishment.
+* It takes a great deal of bravery and skill to keep even a very ordinary life going.
