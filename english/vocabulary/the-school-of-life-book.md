@@ -17,6 +17,7 @@
 * Alarming evidence
 * mental horizon
 * tentative insights
+* benevolent communities
 
 | Word | Definition | Türkçe |
 | ---- | ---------- | ------- |

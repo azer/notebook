@@ -7,17 +7,20 @@
   * [Mahatma Gandi](#mahatma-gandhi)
   * [Omar Khayyám](#omar-khayyám)
   * [Goethe](#goethe)
-  
-  
+
+
+> No man is a hero to his valet.
+― Montaigne
+
 
 > Now, more than ever, we must abandon the performative and embrace the authentic. Our essential mental shifts require humility and patience. Let's focus on real internal change. These human transformations will be honest, raw, ugly, hopeful, frustrated, beautiful, and divine. Be slow. Let this distract you. Let it change how you think and how you see the world, because the world is our work, and so may this tragedy tear down all our faulty assumptions, and give us the courage of bold new ideas.
 ― Dr. Aisha S. Ahmad
 
 
-  
+
 > We can say either that we make progress little by little, or that we do not even expect to make progress.
-― Shunryu Suzuki 
-  
+― Shunryu Suzuki
+
 > Until you make the unconscious conscious, it will direct your life and you will call it fate.
 ―  C.G. Jung
 
