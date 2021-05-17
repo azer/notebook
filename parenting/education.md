@@ -1,6 +1,6 @@
 # Education
 
-# Links
+## Links
 
 * [GreatSchools](https://www.greatschools.org/)
 
