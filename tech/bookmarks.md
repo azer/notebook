@@ -15,4 +15,5 @@
 
 ## Tutorial
 
+* [50 UI Tips](https://fifty.user-interface.io/50_ui_tips.pdf)
 * [Tiny Desktop Apps With Tauri And Vue.js](https://www.smashingmagazine.com/2020/07/tiny-desktop-apps-tauri-vuejs/)
