@@ -15,5 +15,6 @@
 
 ## Tutorial
 
+* [generate rss feeds with grep(1), sed(1), and awk(1)](https://www.romanzolotarev.com/rssg.html)
 * [50 UI Tips](https://fifty.user-interface.io/50_ui_tips.pdf)
 * [Tiny Desktop Apps With Tauri And Vue.js](https://www.smashingmagazine.com/2020/07/tiny-desktop-apps-tauri-vuejs/)
