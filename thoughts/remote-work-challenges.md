@@ -6,7 +6,9 @@ Notes from remote work experience.
 
 ### 1. Divided Attention
 
-### 2. People joining later
+* Looking at everybody all the time
+
+### 2. People leaving / joining in the middle
 
 ### 3. Talking at same time
 
