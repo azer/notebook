@@ -1,5 +1,16 @@
 # Abs Diet
 
+## High protein
+
+* Meat
+* poultry
+* eggs
+* seafood
+* dairy products
+* legumes
+* nuts and seeds
+
+
 ## Eat
 
 * Fruits and vegetables
@@ -8,7 +19,6 @@
 * Fatty fish
 * Legumes
 * Tea
-* **High protein:** Meat, poultry, eggs, seafood, dairy products, legumes, nuts and seeds
 
 ## Avoid
 
