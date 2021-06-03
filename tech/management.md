@@ -70,22 +70,22 @@ The average time it takes to recover from a service outage, failed deploy, or in
 
 | Results / Delivery | Behavior / Mindset | Tech skills / Mastery | Influence / Visibility | Communication / Collaboration |
 | --- | --- | --- | --- | --- |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+| Is a tech consultant for major product ideas |	Identifies and addresses company-wide gaps in skills/delivery/strategy |	Is an expert specialist or proficient generalist |	Works on tech strategy/vision for a functional area |	Proactively builds up relationships with stakeholders |
+| Drives long-term, large-scale, cross-team projects |	Understands the industry - knows peer companies and their business - and uses this in strategic decision making |	Considers engineering as a whole by making the right tradeoffs (security, performance, maintainability, availability, cost)	Enables teams around them to be more effective |	Acts as a tie breaker in technical discussions. | Can resolve conflict and put personal opinion aside. |
+| Coordinates work across a functional area |	Understands the company KPIs and different revenue streams and the business in general |	Is well informed about technical solutions peer companies use |	Acts as a technical consultant to other teams |	Facilitates effective meetings across a functional area |
+| Identifies and manages risks for an area/cluster |	Regularly zooms out and thinks outside their expertise/area |	Knows the software technology trends and shares them internally |	Is visible internally; the engineering leadership team is aware of their work |	Actively reaches out to and builds network with industry leaders |
+| Manages external tech vendors/partners |	Improves tools and development processes for an area/cluster | |	Is known in the community and called in to present externally	| |
+| Refers to return on investment in prioritization discussions | | | Researches and evaluates new technologies that can influence an area/cluster	| |
+| | | | Creates content/framework for learning | |
+| | | | Leads cross-cutting "build or buy" decisions | |
 
 ### Level 5
 
 | Results / Delivery | Behavior / Mindset | Tech skills / Mastery | Influence / Visibility | Communication / Collaboration |
 | --- | --- | --- | --- | --- |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+| Enables/leads company-wide projects that positively affect all areas |	Is a role model for company values |	Can ask difficult questions in all technologies	| Sets/directs technical strategy |	Represents the engineering org across all business functions |
+| Delivers foundational/critical systems to the business |	Leads by example to establish new cultural norms | Creates and leads org-wide guidelines |	Creates new business opportunities for the company  |	Facilitates tech vision discussions for the entire engineering org | 
+| Identifies, promotes, and delivers competitive differentiation for the engineering organization |	Balances and is aware of technical and non-technical sides to company-wide challenges |	Constantly works on understanding all technologies used at the company |	Seeks out, recruits, and grows other level 4/5 leaders |	Inspires while communicating - motivates others to follow them through their leadership |
+| Looks at org-wide cycle time/risk when evaluating/building technical solutions |	Develops new company-wide processes	Has experience in scaling up a system through multiple stages of growth |	Is known as a leader in the industry (e.g. invited to conferences as a keynote speaker or a domain expert) |	Can act as the external face of the company for engineers |
+| Is a decision maker on major technology topics (e.g. deprecating a tech stack, acquisitions, strategy, etc.) | |	Is a world-renowned expert in a relevant domain	Has written a book or major article on relevant technical topics	| |
+| | | Evaluates and brings in new technologies/tools used across the company |	Uses their leadership platform to promote and hire for diversity | |
