@@ -57,14 +57,13 @@ The average time it takes to recover from a service outage, failed deploy, or in
 
 | Results / Delivery | Behavior / Mindset | Tech skills / Mastery | Influence / Visibility | Communication / Collaboration |
 | --- | --- | --- | --- | --- |
-
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
-| | | | | |
+| Drives larger projects reliably by delegating and coordinating |	Keeps the team honest and accountable to commitments |	Designs larger systems that are easy for new employees to understand and change or remove |	Mentors other engineers (pair programming, code reviews, feedback) |	Collaborates across multiple teams/functions |
+| Splits larger projects into smaller parts effectively |	Encourages team members to deliver with high quality |	Owns and drives technical guidelines |	Proactively increases visibility of their team's work |	Facilitates technical decision-making in the team |
+| Provides multiple solution proposals with different costs | Proactively improves the tools the team is working with |	Go-to person for the primary technology of the team |	Identifies if currently used technologies are appropriate |	Contributes to the technical vision of the team |
+| Identifies and manages risks on the team |	Cares about a specific system/service/component - acts as an owner without being possessive |	Is competent in diverse technologies |	Discovers organizational inefficiencies and proposes changes |	Writes RFCs and epic briefs and follows up on the comments |
+| Gives reasonable estimates for larger projects |	Proactively supports positive culture by confronting negative behavior - leading by example |	Demonstrates proficient problem-solving skills (debugging, analysis, instrumentation) |	Actively seeks out potential candidates when the team wants to grow |	When communicating, makes sure messages have arrived and been understood |
+| Coordinates work across team boundaries |	Shows empathy for other teams |	Understands the implications of a decision for other teams/services/components |	Writes blog posts or talks at conferences - has external influence |	Participates in broad architectural conversations |
+| Plans all aspects of a project (testing/monitoring/alerting) |	Constantly puts effort into understanding the business/product big picture |	Constantly puts effort into understanding the company-wide architecture |	Informs "build or buy" decisions |	Serves as a team representative in cross-team meetings and initiatives | | Manages time well and takes on more responsibilities without negatively affecting team output |	Regularly assesses security and legal risks | |	Enables people around them to be more effective	| |
 
 ### Level 4
 
