@@ -3,6 +3,7 @@
 ### Bookmarks
 
 * [Weather report](https://www.worldweatheronline.com/chamonix-mont-blanc-weather/rhone-alpes/fr.aspx)
+* [Chamonix Weather](https://www.chamonix.com/weather,11,en.html)
 
 ### Overview
 
