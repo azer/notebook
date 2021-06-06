@@ -4,6 +4,7 @@
 
 * [Weather report](https://www.worldweatheronline.com/chamonix-mont-blanc-weather/rhone-alpes/fr.aspx)
 * [Chamonix Weather](https://www.chamonix.com/weather,11,en.html)
+* [14 Day Forecast](https://www.myweather2.com/City-Town/France/ChamonixMontBlanc/14-Day-Forecast.aspx)
 
 ### Overview
 
