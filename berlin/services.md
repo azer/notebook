@@ -4,6 +4,7 @@
 
 * [kraft-reparaturdienst](https://www.kraft-reparaturdienst.de)
 * [My-hammer.de](https://www.my-hammer.de/)
+* [kintsugi berlin](https://www.kintsugi-berlin.de/)
 
 ## Getting rid of pennies
 
