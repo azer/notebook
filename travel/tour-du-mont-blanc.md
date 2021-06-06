@@ -1,5 +1,9 @@
 ## 7 Days Guide
 
+### Bookmarks
+
+* [Weather report](https://www.worldweatheronline.com/chamonix-mont-blanc-weather/rhone-alpes/fr.aspx)
+
 ### Overview
 
 | Day |	Highlights | Overnight |
