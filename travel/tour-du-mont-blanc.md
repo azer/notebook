@@ -12,6 +12,10 @@
 | Day 6 | Champex - Bovines - Argentière / Le Tour |	Argentiere |
 | Day 7 |	Argentière / Le Tour - Chamonix	  | |
 
+### Map
+
+![](https://cldup.com/RISTLuXqoM.jpeg)
+
 ### Day 1: Arrival in the Chamonix Valley
 
 Les Houches is nestled at the base of Mont-Blanc. It is the first town in the Chamonix valley and a popular winter ski resort, with plenty of shops and restaurants to peruse. You'll enjoy a first taste of the region's magnificent scenery while exploring the town at your leisure for the afternoon and evening.
