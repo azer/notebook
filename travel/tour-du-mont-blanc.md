@@ -2,6 +2,7 @@
 
 ### Bookmarks
 
+* [Map of shelthers](https://umap.openstreetmap.fr/fr/map/tour-du-mont-blanc-ccpmb-_206457#13/45.7632/6.7310)
 * [Weather report](https://www.worldweatheronline.com/chamonix-mont-blanc-weather/rhone-alpes/fr.aspx)
 * [Chamonix Weather](https://www.chamonix.com/weather,11,en.html)
 * [14 Day Forecast](https://www.myweather2.com/City-Town/France/ChamonixMontBlanc/14-Day-Forecast.aspx)
