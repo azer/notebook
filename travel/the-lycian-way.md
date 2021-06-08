@@ -6,6 +6,7 @@
 * [AmberTravel](https://www.ambertravel.com/map-of-the-lycian-way)
 * [Onur Benli](https://www.youtube.com/watch?v=WHxGK_yyp_U&list=PLyn6bf31fZGe3wCj_dVSVfsE_BBqdqjsJ)
 * [Kamp tüpü](https://www.facebook.com/groups/likya/permalink/896188503879297)
+* [WikiVoyage](https://en.wikivoyage.org/wiki/Lycian_Way)
 
 ## Maps
 
