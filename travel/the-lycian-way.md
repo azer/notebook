@@ -8,6 +8,7 @@
 * [Kamp tüpü](https://www.facebook.com/groups/likya/permalink/896188503879297)
 * [WikiVoyage](https://en.wikivoyage.org/wiki/Lycian_Way)
 * [AllTrails](https://www.alltrails.com/trail/turkey/mugla/lycian-way)
+* [Likya Yolu](https://www.likyayolu.org/2018/02/001-fethiye-ovacik.html)
 
 ## Maps
 
