@@ -1,5 +1,7 @@
 # How to Be a Stoic
 
+Author: [Elif Batuman](https://www.newyorker.com/magazine/2016/12/19/how-to-be-a-stoic)
+
 ## Article
 
 Born nearly two thousand years before Darwin and Freud, Epictetus seems to have anticipated a way out of their prisons.
