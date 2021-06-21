@@ -17,6 +17,7 @@
 
 ## Websites:
 
+* [sarah guo](http://sarahguo.com/)
 * [beta.flim.ai](https://beta.flim.ai/)
 * [Spotify Design](https://spotify.design/)
 * [State of Design](https://www.abstract.design/state-of-design)
