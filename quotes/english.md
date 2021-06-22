@@ -8,6 +8,8 @@
   * [Omar Khayyám](#omar-khayyám)
   * [Goethe](#goethe)
 
+> Good fences make good neighbors
+― Robert Frost 
 
 > No man is a hero to his valet.
 ― Montaigne
