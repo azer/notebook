@@ -23,8 +23,6 @@
 
 ## 2021
 
-## 2021
-
 #### June 17
 
 Walked from Margaz to Gelemis, in East Patara.
