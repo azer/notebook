@@ -23,6 +23,66 @@
 
 ## 2021
 
+## 2021
+
+#### June 17
+
+Walked from Margaz to Gelemis, in East Patara.
+
+26702 steps
+21km
+
+#### June 16
+
+Spent the night in my grandfather’s village, Margaz.
+
+#### June 15
+
+Celebrated my birthday with my grandma and uncle in Kalkan.
+
+#### June 14
+
+Walked from Cavurali to West Patara.
+
+24777 steps
+19,4km
+
+#### June 13
+
+Walked from Sidyna to Cavurali.
+
+33347 steps
+26,2km
+
+#### June 12
+
+Walked from Alinca to Sidyna. 
+
+28387 steps
+22,4km
+
+#### June 11
+
+Walked from Kabak to Alinca.
+
+38380 steps
+22,5km
+
+#### June 10
+
+First day of my Lycian Way hiking trip. I walked from Ovacik to Kabak, passing Faralya.
+
+43,543 steps
+34km
+
+#### May 14
+
+I decided to join Superhuman as a Senior Software Engineer.
+
+#### April 9
+
+Proposed an exit plan for my employer.
+
 #### January 30
 
 ```
