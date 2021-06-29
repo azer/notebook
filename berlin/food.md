@@ -10,6 +10,9 @@
 * Yumcha Heroes: Good dimsum. Recommended; shangai, shomai.
 * Mercan Restaurant: Turkish home food, near Görlitzer Bahnhof. 
 * Agora Restaurant: Turkish food and calm environment, near Heinrich-Heine-Strasse station.
+* Can Cafe Restaurant: Turkish food
+* Asude Restaurant: Turkish food
+* Gül Restaurant: Turkish food
 
 ## Sandwich / Fast food
 
